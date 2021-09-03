@@ -14,10 +14,10 @@ Mahadev Satyanarayanan
 * Admin assistant: Chase Klingensmith, GHC 9229 (x8-3041, chasek@cs.cmu.edu)
 
 Dan Siewiorek
-* Office: NSH 3513
+* Office: NSH 3526B
 * Phone: x8-2570
 * Email: dps@cs.cmu.edu
-* Admin assistant: Marian D'Amico, NSH 3526 (x8-1216, marian@cs.cmu.edu)
+* Admin assistant: Reenie Kirby,  NSH 3507 (x8-1215, reenie@cmu.edu)
 
 ### Guest Faculty
 * Asim Smailagic (ECE, Email: asim@cs.cmu.edu)
