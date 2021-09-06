@@ -1,15 +1,17 @@
 ---
 layout: page
-title: Archive of Projects
+title: Archive
 permalink: /archive/
-description: 
+description: Project assets such as posters and YouTube videos of demos from previous classes
 nav: true
 ---
 
-#### December 1, 2015
+Go to: [2015](#2015)&nbsp;&nbsp;[2016](#2016)&nbsp;&nbsp;[2017](#2017)&nbsp;&nbsp;[2018](#2018)
+
+### <a name="2015">December 1, 2015</a>
 
 **<span style="color: crimson;">1. Environmental Camera Based Virtual Gym Coach</span>** (Poster, [Video](https://youtu.be/TYud9XvhENo))<br>
-Students: Misha Kutsovsky, Sakshi Goel &nbsp;&nbsp; Mentor: Zhuo Chen
+Students: Misha Kutsovsky, Sakshi Goel &nbsp;&nbsp;&nbsp; Mentor: Zhuo Chen
 
 This project aims at using environmental cameras to detect a user's
 activities inside a gym, e.g. push-ups, squats, etc. It could also
@@ -24,7 +26,7 @@ rewritten if we use non-Android based cameras.
 
 
 **<span style="color: crimson;">2. Blind person assistance using object recognition</span>** (Poster, [Video](https://youtu.be/MO7QD23pREM))<br>
-Students: Shruti Dhoot, Vrushali Bhutada &nbsp;&nbsp; Mentor: Brandon Amos
+Students: Shruti Dhoot, Vrushali Bhutada &nbsp;&nbsp;&nbsp; Mentor: Brandon Amos
 
 This project provides naive assistance to visually impaired Google
 Glass users by providing spoken cues of objects they are looking at.
@@ -60,7 +62,7 @@ https://vimeo.com/63653873).
 
 
 **<span style="color: crimson;">5. Camera-based recognition</span>** (Poster, [Video](https://youtu.be/bFFeFTmQydQ))<br>
-Students: Subramanian Natarajan, Priyanka Kulkarni  &nbsp;&nbsp; Mentor:  Babu Pillai
+Students: Subramanian Natarajan, Priyanka Kulkarni  &nbsp;&nbsp;&nbsp; Mentor:  Babu Pillai
 
 This project seeks to use camera based sensing of gestures in an
 interactive game setting.  The idea is to allow the user to control
@@ -78,7 +80,7 @@ pointer on real objects or projected screen.
 
 
 **<span style="color: crimson;">6. Super Resolution</span>** (Poster, [Video](https://youtu.be/fhc2x8DdiVA))<br>
-Students: Joel Cao, Caglayan Gemici &nbsp;&nbsp; Mentor: Babu Pillai
+Students: Joel Cao, Caglayan Gemici &nbsp;&nbsp;&nbsp; Mentor: Babu Pillai
 
 This project will attempt to apply superresolution techniques to
 produce a "live" view that is higher resolution than the native camera
@@ -91,7 +93,7 @@ application showing an enhanced live view of what the camera is
 capturing (e.g., a magnifier app).
 
 **<span style="color: crimson;">7. Lost child</span>** (Poster, [Video](https://youtu.be/zdGDUMj9gKY))<br>
-Students: Sahil Shah, Aditya Gabbita  &nbsp;&nbsp; Mentor: Khalid Elgazzar
+Students: Sahil Shah, Aditya Gabbita  &nbsp;&nbsp;&nbsp; Mentor: Khalid Elgazzar
 
 Finding a missing child in the crowd is a crucial and non trivial
 task. This project aims to reduce the burden on desparate parents and
@@ -116,7 +118,7 @@ project -- the focus is on how fast the process would be (with
 reasonable accuracy).
 
 **<span style="color: crimson;">9. Activity Recognition with Mobile and Wearable Devices</span>** (Poster, [Video](https://youtu.be/H6gk6eo3Qp0))<br>
-Students: Sarthak Dubey, Pallavi Santhosh Kumar  &nbsp;&nbsp; Mentor: Jim Osborne
+Students: Sarthak Dubey, Pallavi Santhosh Kumar  &nbsp;&nbsp;&nbsp; Mentor: Jim Osborne
 
 Used together, mobile/wearable sensor readings and task/time/motion
 scripts could become a powerful yet straightforward way to detect and
@@ -132,7 +134,7 @@ This project has four main pieces:
 (Note: the general term for this form of user interaction is “ecological momentary assessment” or EMA. There is a substantial literature on the technique to which the course instructors have contributed. A good introductory slide set and paper are available here: https://www.dropbox.com/sh/76x5uaekcd5xo38/AADg2KOeVTmxePK5bOzAk6Nsa?dl=0)
 
 **<span style="color: crimson;">10. Interactive Tactile Maps Application</span>** (Poster, [Video](https://youtu.be/HCwI1SDJdls))<br>
-Students:  Shekhar Sharma, Siddharth Shah, Aravind Selvan  &nbsp;&nbsp; Mentor: Brandon Taylor
+Students:  Shekhar Sharma, Siddharth Shah, Aravind Selvan  &nbsp;&nbsp;&nbsp; Mentor: Brandon Taylor
 
 Blind individuals often struggle to make geographic sense of
 unfamiliar locations. Tactile maps can provide information about an
@@ -154,7 +156,7 @@ Most of the work itself will be in designing an Android application,
 though some amount of 3D printing will be required.  
 
 **<span style="color: crimson;">11.  Cognitive Assistance using Google Glass to Coach Blood Pressure Measurement</span>** (Poster, [Video](https://youtu.be/c4wr4xjC0yM))<br>
-Students: Siyan Zhao, Kedar Amladi, Vinay Shankar &nbsp;&nbsp; Mentors: Asim Smailagic and Dan Siewiorek 
+Students: Siyan Zhao, Kedar Amladi, Vinay Shankar &nbsp;&nbsp;&nbsp; Mentors: Asim Smailagic and Dan Siewiorek 
 
 Blood pressure (BP) is one of the key measurements used to monitor
 patient health. The operation of current blood pressure monitors are
@@ -180,7 +182,7 @@ to guide corrective actions. Usability evaluation will consist of a
 pilot study.
 
 **<span style="color: crimson;">12.  Gait Analysis and Abnormality Detection</span>** (Poster, [Video](https://youtu.be/Mi3nz7_KbSY))<br>
-Students: Nat Jeffries &nbsp;&nbsp; Mentors: Asim Smailagic and Dan Siewiorek
+Students: Nat Jeffries &nbsp;&nbsp;&nbsp; Mentors: Asim Smailagic and Dan Siewiorek
 
 Gait variability, defined as fluctuations in gait characteristics from
 one step to the next, has been estimated to affect 35-45% of
@@ -204,3 +206,411 @@ timed walk) exercise can be measured by the IMU. Using these typical
 gait exercises we will develop a gate analysis and abnormalities
 detection algorithm. The algorithm will be evaluated in a pilot study
 using mechanisms to vary gait such as adding a weight to one leg.
+
+### <a name="2016">December 6, 2016</a>
+
+**<span style="color: crimson;">1a.  Wearable Cognitive Assistance for AED Devices (device operation) </span>** (Poster, [Video](https://youtu.be/SYhCATfQKzc))<br>
+Students: Hongkun Leng, Haodong Liu, Yuqi Liu &nbsp;&nbsp;&nbsp;Mentors: Zhao Siyan and Junjue Wang
+
+Using an Automatic External Defibrillator (AED) is a time-critical
+task. If done correctly, it can save many lives. However, there is
+currently no easy way to guide a novice user through the procedure
+without on-site support from trained personnel. But Wearable Cognitive
+Assistants can change this.  With wearable devices like Google Glass,
+it is possible to continuously capture what the user is looking at. An
+assistance system for tasks like using an AED, can be built on top of
+this such that 1) The system tries to understand the user’s progress
+with computer vision techniques; 2) The cognitive assistant provides
+step-by- step guidance to the user; and 3) The system gives user
+feedback based on progress. The video captured by Glass will be
+streamed to a Cloudlet and processed in real-time.
+
+This project requires some computer vision background (if you do not
+know anything, you can learn along the way). We have a Gabriel
+platform that takes care of communications between mobile clients and
+cloudlets. You'll mainly be using python to program cognitive
+processing for the AED. Small customization for Android client may
+also be needed. It also involves Android programming (on Google
+Glass). The real-time video transmission part is already built and
+open-sourced.
+
+**<span style="color: crimson;">1b.  Wearable Cognitive Assistance for AED Devices (pad placement) </span>** (Poster, [Video](https://youtu.be/SoH7iExefuQ))<br>
+Students:  Jineet Doshi, Toby Li, Rui Silva  &nbsp;&nbsp;&nbsp;Mentor: Zhao Siyan and Junjue Wang
+
+Description same as 1a
+
+**<span style="color: crimson;">2. Privacy Mediator for Audio Data </span>** (Poster, [Video](https://youtu.be/pUZNVQSACD8))<br>
+Students:  Ankit Jain, Rajat Pandey, Ayushi Singh &nbsp;&nbsp;&nbsp;Mentor: Junjue Wang
+
+Consumer acceptance of IoT deployment is shadowed by privacy
+concerns. Users lack control over raw data that is directly streamed
+from sensors to the cloud. Current cloud-based IoT architecture does
+not have a clean method to let users filter and retain their sensitive
+data. A vision of using cloudlets to preserve privacy has been
+proposed. Imagine the following scenario in the future. You're in a
+room talking with friends. Microphones in your smartphones and
+security cameras are recording your conversation and sending them to
+the cloud for analysis. Although you rely on cloud audio analysis
+services to automatically take note and set up reminders from
+conversations, you want to exclude sensitive information, for example,
+salaries and social security numbers, from raw audio data that is
+uploaded. You leverage cloudlets as privacy mediators to preserve your
+privacy. Audio data is transmitted to a trusted cloudlet before going
+into the cloud. On the cloudlet, audio analysis is performed in
+real-time to filter out sensitive information. For example, the
+cloudlet changes the audio containing the email password you said
+during a conversation into beeping.
+
+In this project, you'll build such a privacy mediator for audio data
+using cloudlets. We already have a framework named Gabriel that takes
+care of data transmissions between mobile clients and
+cloudlets. You'll focus on audio data analysis on cloudlets. There are
+a few widely-used open-source automatic speech recognition frameworks
+you can leverage (CMU Sphinx, Kaldi, etc).
+
+**<span style="color: crimson;">4.  Hub for Internet of Things </span>** (Poster,  [Video](https://youtu.be/AThME5D-Hoo))<br> 
+Students: Ken Ling, Lehao Sun, Mengjin Yan &nbsp;&nbsp;&nbsp;Mentor:  Jason Hong
+
+One likely deployment model for Internet of Things is to have
+centralized hubs that can offer devices network connections, check for
+firmware or software updates, and monitor traffic for anomalous
+behaviors. This project seeks to develop new ways of adding new
+devices to this hub in a simple and secure manner, as well as offering
+new kinds of services, such as linking different devices together or
+doing simple kinds of end-user programming.
+
+**<span style="color: crimson;">7. Interactive Rehabilitation Device </span>** (Poster, [Video](https://youtu.be/wjlpSe5Glx0))<br>
+Students:  Eric  Markvicka, Tianshi Li &nbsp;&nbsp;&nbsp;Mentor: Zhuo Chen
+
+This project will use a wearable biomonitoring device that is
+adhesively mounted to the hand to estimate position and monitor the
+user’s heart rate and blood oxygen saturation. The device will be
+used for stroke rehabilitation to understand when the hand becomes
+impeded due to muscle stiffening. Specifically, the project will aim
+to answer the following questions: 1) What is the position of the hand
+when muscle stiffening occurs, 2) what motion of the hand initiated
+muscle stiffening, and 3) how was the muscle stiffening alleviated. In
+addition, the user’s heart rate and blood oxygen saturation will be
+monitored at the fingertip. For this project, data from the wearable
+device will be transmitted to a smart phone via Bluetooth link. The
+cloudlet infrastructure will be used to off-load data processing and
+storage. An interactive user interface will display relevant
+biomonitoring signals and suggests ways to prevent or alleviate muscle
+stiffening.
+
+**<span style="color: crimson;">9. Combining a Variety of Sensors for User-Oriented IoT (SpineCouch) </span>**  (Poster, [Video](https://youtu.be/MVQxDOEcCfk))<br>
+Students:  Kyuin Lee, Raghu Mulukutla, Qian Yang  &nbsp;&nbsp;&nbsp;Mentor: Asim Smailagic, Dan Siewiorek
+
+In the Internet of Things (IoT) applications are based on large
+amounts of sensor data and making that data usable to everyday persons
+is becoming a challenge as well. The project uses context-aware and
+Internet of Things computing technology to aid care coordinators in
+keeping their patients healthy, happy, independent and safe in their
+respective homes. Taking care of elderly persons is becoming a real
+challenge in many countries. The system will (1) allow to view and add
+their patients’ information, (2) provide some data analytics, (3)
+gather medical and social/emotional data to provide a holistic view of
+the health status of patients, and (4) provide alerts and
+notifications when a patient deviates from their baseline health. We
+combine mobile and stationary sensors, as well as EMA (Ecological
+Momentary Assessment) surveys for parameters that cannot be sensed
+(e.g., social activity, mood).  We will aim to model people’s sleep
+patterns, physical activities, stress levels and social activities,
+showing end users details of their own behaviors and offering the
+community aggregated summaries. These technologies should enable
+self-monitoring and sharing of progress with healthcare providers.
+
+
+**<span style="color: crimson;">11. Efficient Large File Sharing on Cloudlets </span>**  (Poster, [Video](https://youtu.be/rsPIEtlbHrs))<br>
+Students: Arushi Grover,  Preeti Murthy, Prathi Shastry &nbsp;&nbsp;&nbsp;Mentor: Jan Harkes
+
+The Coda Distributed File System (Coda) has multiple features that
+make it desirable in poorly connected environments. By its aggressive,
+persistent, whole-file caching strategy and ability to continue
+read/write operation even when the Coda servers are unreachable it
+makes it very well suited to provide file services for cloudlets that
+have possibly intermittend connectivity which are available close to a
+mobile end user.  However with several modern workloads such as
+MapReduce or video stream analysis that work with large, append only
+type files, the whole file caching strategy makes it inefficient to
+work with large files because we possibly send a multi-GB file back to
+the server multiple times.  Several things need to improve for Coda to
+tackle such large file more effectively. First of all, in the existing
+design Coda has no insight into individual read and write
+operations. By adding support for FUSE either directly or through a
+proxy process it would be possible to observe which parts of a file
+are updated or accessed.  Secondary there has to be some sort of
+immutable file storage on the server that allows clients to fetch data
+from an older version of a file (to be able to maintain the existing
+open-close consistency model. This could be implemented as an
+S3(-compatible) storage pool, or possibly a more efficient delta
+packing format, similar to git packfiles.
+
+From there on, there are many possible directions this work can
+take. On the write path it now becomes possible to track which parts
+of a file have actually been modified, and a binary delta can be
+generated and sent to the server instead of the whole file. On the
+read path it will be possible to fetch file contents on-demand as they
+are being accessed, with the caveat that we will probably lose
+performance and our ability to survive network failures because now
+only fragments of files may been cached.  Implementing this may
+require some kernel level work, deep knowledge of C/C++ programming
+and a lot of careful thinking about consistency in a distributed
+system.
+
+### <a name="2017">December 5, 2017</a>
+
+**<span style="color: crimson;">Independent Study: Virtual Window Shopping on Business Streets</span>**  ([Video](https://www.youtube.com/watch?v=cxENoWVuwJ8&list=PLKZP6WvztHys10z5qqTizmDCwGNp2h0HB&index=1))<br>
+Student: Student: Tan Li &nbsp;&nbsp;&nbsp;Mentor: Zhuo Chen
+
+**<span style="color: crimson;">Independent Study: Edge Computing for Live Video Style Transfer</span>**  ([Video](https://www.youtube.com/watch?v=9ynyBz6Zc3U&list=PLKZP6WvztHys10z5qqTizmDCwGNp2h0HB&index=4))<br>
+Student: Shilpa George  &nbsp;&nbsp;&nbsp;Mentor: Satya
+
+**<span style="color: crimson;">4. Just In Time Sign Translation</span>**  ([Video](https://www.youtube.com/watch?v=6vRZDtu1CkE&list=PLKZP6WvztHys10z5qqTizmDCwGNp2h0HB&index=2))<br>
+Students: Anagh Singh and Vignesh Shankar &nbsp;&nbsp;&nbsp;Mentor: Junjue Wang
+
+Travelers in a foreign language environment often have troubles
+navigating through surroundings. Sometimes failure to navigate can
+result in severe consequences, for example, going through wrong
+declaration lanes at Customs in airports. More often, it causes
+inconvenience and frustration, for instance, missing a highway
+exit. This project aims to perform just-in-time sign translation in
+places including airports, highway, and hotels, to help travelers
+navigate in a foreign language environment.
+
+Leveraging a head-mounted smart glasses (e.g. Google Glass), the
+system translates phrases on signs as a user looks at them and
+displays the translation on the screen. The function is similar to
+Google and Translate, but the project should reduce end-to-end latency
+significantly leveraging cloudlets, since a user is likely to be
+walking or even driving as she passes through a sign. To build such a
+system, OCR is needed to convert images of text into text. Machine
+translation is also required to convert the text into another
+language. Fortunately, there are well established open-source projects
+for both OCR (tesseract-ocr) and machine translation (OpenNMT). The
+source and target language can be fixed to make the machine
+translation easier. The focus of this project is on overall system
+design and implementation, not on improving OCR nor machine
+translation.
+
+**<span style="color: crimson;">8a. Opportunistic Search of Edge Sourced Data</span>**  ([Video](https://www.youtube.com/watch?v=_IZyQzQy2mQ&list=PLKZP6WvztHys10z5qqTizmDCwGNp2h0HB&index=3))<br>
+Students: Sandeep Agarwalla and Sindhu Simhadri &nbsp;&nbsp;&nbsp;Mentor: Jan Harkes
+
+Cloudlets receive multimedia data feeds from IoT sensors, video
+cameras, drones and other data sources that they are associated with.
+Searching this data at Internet scale with relatively low result
+latency will become important in the future.  The goal of this project
+is to create a search framework for edge-sourced data that is based on
+the publish-subscribe paradigm.  Cloudlets can subscribe or poll for
+any appropriately scoped searches, run the search and send results
+back to the cloud.
+
+**<span style="color: crimson;">8b. Improving Search Efficiency In Edge Computing</span>**  ([Video](https://www.youtube.com/watch?v=EmoLSZ3jaB8&list=PLKZP6WvztHys10z5qqTizmDCwGNp2h0HB&index=5))<br>
+Students: Ziqiang Feng and Yanzhe Yang &nbsp;&nbsp;&nbsp;Mentor: Jan Harkes
+
+Some edge computing nodes (e.g., on a small, autonomous drone) may be
+under-powered, and incapable of running expensive algorithms such as
+those based on convolutional neural networks.  The cloud has the
+necessary resources, but shipping all the data from the edge to the
+cloud is wasteful of bandwidth.  However, the edge node could run a
+cheap "early-discard" algorithm that has a higher false positive rate
+than the best algorithm.  The goal of this project is to explore this
+tradeoff space and to demonstrate a search capability based on these
+principles
+
+**<span style="color: crimson;">9. ActiveMaps</span>**  ([Video](https://www.youtube.com/watch?v=X0NeE7NuSH4&list=PLKZP6WvztHys10z5qqTizmDCwGNp2h0HB&index=6))<br>
+Students: Ticha Sethapakdi, Diana Zhang  &nbsp;&nbsp;&nbsp;Mentor: Jason Hong
+
+The goal of ActiveMap is to make it easy for people to quickly create
+and deploy many kinds of location-based services. As an analogy, just
+as a web browser can read and render web pages, we want the ActiveMap
+to be able to read and render Maps. Example Maps might include a map
+of a location (e.g. a building floorplan), or content about where
+static or dynamic objects are (e.g. nearby Starbucks and discounts,
+real-time location of a person or members of a family, or location of
+buses as they move about). Systems issues include specifying the Map
+functionality and syntax (e.g. defining floorplans, defining locations
+inside, update rates, diffs from last read version, text snippets to
+show), creating a GUI to display and interact with multiple Maps, and
+creating backend software for making these Maps easy to deploy on web
+servers
+
+### <a name="2018">December 6, 2018</a>
+
+**<span style="color: crimson;">2.  Virtual Coach: Myoelectric Prosthetics for Amputation Recovery</span>**  (Poster, [Video](https://youtu.be/Wdfwa8wb_5M))<br>
+Students: Saksham Chitkara, Varun Joshi, Kevin Wu, Mohamed Razouane  &nbsp;&nbsp;&nbsp;Mentors: Asim Smailagic and Dan Siewiorek
+
+For individuals who undergo partial arm amputations, robotic
+myoelectric prosthetic devices can allow them to recover a great deal
+of their arm and hand functionality. A significant challenge in
+adapting to a prosthetic device is learning to use their brain to
+control the device effectively and safely.
+
+In this project, we will use a Microsoft Kinect and a skin EMG reader
+to help provide feedback to users learning to use a prosthetic
+device. Participants in this project will develop machine learning
+tools to determine what feedback to provide to a user performing
+physical therapy exercises to help them learn to use their prosthetic
+device correctly. Example exercises are: lifting a light object,
+lifting a heavy object, passing an object from one hand to the other,
+and lifting a tray. Using the Unity game engine we have developed
+three 2-dimensional games that users can control using the EMG sleeve,
+as well as two virtual reality games.
+
+Data was collected from 12 volunteers, play-testing these games for
+10-20 minutes at a time. Additionally several subjects performed
+activities of daily living, such as passing an object from one hand to
+the other, while recording simultaneous Kinect and EMG data. For this
+dataset we collected 233 instances of an activity of daily living,
+specifically the act of lifting a light object from one hand to the
+other.
+
+With these provided datasets, we would like to address the following
+machine learning classification tasks. The first is to identify the
+type of muscular activity a user is performing given 8 channels of EMG
+data (e.g. wrist extension or arm rotation). The second is to identify
+if a subject is correctly performing a physical task, such as
+transferring an object from one hand to the other, given EMG data
+coupled with Kinect 2 depth and RGB data.
+
+
+**<span style="color: crimson;">5.  Augmented Reality Shooting Gaming: Gestural Interface</span>** (Poster, [Video](https://youtu.be/LFo63Q6Fpjg))<br>
+Students: Tan Li, Yang Zhang  &nbsp;&nbsp;&nbsp;Mentor: Padmanabhan Pillai
+
+Augmented reality / mixed reality is an emerging technology that may
+revolutionize mobile gaming.  The idea is to mix elements of the real
+world and the user's movements and actions in the real world, along
+with elements of a virtual world to produce an immersive gaming
+environment.  For example a game may place a virtual monster or
+treasure chest at some real location, with which the user can
+interact. The virtual elements should be displayed and moved
+consistently with the real world surrounding as the user moves.  To do
+this well will require a reasonably powerful device with cameras,
+sensors, and displays, along with cloudlets to do the heavy
+computational steps. Although a complete game is beyond the scope of a
+semester-long project, several projects can be defined to demonstrate
+various aspects of AR gaming.  All of the projects will use an Android
+device as the front end (maybe with Cardboard, or VR headset adapter),
+and use a Linux-based cloudlet for computational offload. OpenGL will
+be used to display mixed reality scenes, and a combination of OpenCV
+and other visual libraries, along with custom code (C++ or Python)
+will be used on the cloudlet.  In a mixed reality game, the user will
+interact with objects and environment with their hands.  We need a way
+to detect movements of the arm and interpret actions. Potential demo:
+user aims and shoots at AR targets using virtual gun held in hand.
+
+
+
+**<span style="color: crimson;">7. Wearable Time Machine</span>** (Poster, [Video](https://youtu.be/5ktMU8wAEjc))<br>
+Students:  Abinaya Hariharasubramanian, Nirav Atre, Shilpa George  &nbsp;&nbsp;&nbsp;Mentor: Junjue Wang
+
+Objects help people remember. Many things are valuable because they
+carry part of the past. People recall emotions and experiences when
+they see these objects. It could be a tarnished birthday card which
+reminds one of an old friend. It could be a magnet buried inside of a
+dusty box that reminds one of a past trip. While people’s memory
+could fade, digital records do not. What if there is a wearable time
+machine that could help people relive their past experiences?
+
+Leveraging head-mounted smart glasses (e.g. Google Glass and Microsoft
+HoloLens), this project aims to build an object detection-based system
+that helps people relive their past experiences. The application
+displays short video clips from the past to users through head-mounted
+smart glasses when users see special objects. To create such an
+experience, the application would record short video segments
+throughout a day using the smart glasses. Users or the application
+itself would mark some objects as “memory triggers”. The
+application builds object detectors for these objects and associates
+video segments with them. Then, when the application detects a memory
+trigger, it retrieves and displays relevant video segments that are
+associated with the object to augment memory recollection and help
+users relive their past.
+
+This project provides you with an opportunity to work with smart
+glasses, cloudlets, and deep neural networks (DNNs). You will learn
+through practice how to design and build a real-time video streaming
+and analysis application using deep learning based object
+detection. Depending on your interests, features can be
+changed. Familiarity with DNNs is preferred but not required.
+
+**<span style="color: crimson;">8. Cloudlet-based Real-Time Deep Face Swap on Mobile Devices</span>**  (Poster,  [Video](https://youtu.be/SxCjD-vcJps))<br>
+Students: Ziheng Liao &nbsp;&nbsp;&nbsp;Mentor:  Junjue Wang
+
+Recent developments in deep learning have made it possible to
+automatically alter and synthesize realistic images. One interesting
+application is Face Swap, which superimposes a person’s face,
+including facial movements, to another person in a natural-looking
+way. Existing open-source projects leverage autoencoders and
+generative adversarial networks to achieve such effects. However, they
+require significant computation power and the processing happens
+offline.  The project aims to build a real-time deep face swap
+application on mobile devices by offloading computation to a cloudlet,
+a small data-center that is one wireless hop away from the mobile
+device. The application would stream the camera feed from the mobile
+device, perform face swap on the cloudlet using deep neural networks
+(DNNs), and transmit the altered video stream back to the mobile
+device for display.
+
+This project provides you with an opportunity to work with cloudlets
+and DNNs. You will learn through practice how to design and build a
+real-time video streaming and deep learning-based analysis
+application. Depending on your interests, features can be changed. To
+make existing face swap DNNs run in real-time can be
+challenging. Strong system optimization skills and familiarity with
+DNNs are preferred.
+
+**<span style="color: crimson;">10A. Visual Search with Dynamic Participation and Fault Tolerance</span>**  (Poster, [Video](https://youtu.be/17QzdWZ7GSg))<br>
+Students: Karan Dhabalia, Matthew Chu  &nbsp;&nbsp;&nbsp;Mentor: Ziqiang Feng
+
+A child has gone missing. An AMBER alert is issued. The authority
+launches a visual query including face recognition over a network of
+public surveillance cameras. The story so far is well understood.
+
+Now, some good citizens offer to help by making their personal video
+feeds searchable -- dash cameras, smart glasses, smartphones,
+recreational drones, home surveillance, etc. On one hand, these
+citizens may join the search at any point of time. On the other
+hand, they may leave the search at any point of time, when, for
+example, they enter private zones or run low on battery. So, these
+citizens should be able to come and go easily when the search is in
+progress.
+
+In this project, you will develop a system that realizes the above
+vision. You are encouraged to base your project on OpenDiamond
+(https://github.com/cmusatyalab/opendiamond ) but it is not
+mandatory. OpenDiamond is a system for searching non-indexed data on
+an edge computing infrastructure.  Although this project involves
+searching image or video data, you are not required to have prior
+computer vision knowledge. OpenDiamond comes with a number of
+visualfilters (e.g., RGB histogram, SIFT matching, DNN) that you can
+reuse off-the-shelf.
+
+What you will learn:
+* Formalize the design requirements of a system from a motivation
+* Design an execution model that can especially facilitates the required agility
+* Using VM technologies (e.g., Docker container) in a larger system
+* Tradeoff between data shipping and command shipping
+
+What  you need to already know:
+* Programming with Python, JSON, XML, etc.
+* Basic programming with networked systems (e.g., TCP sockets, Flask)
+* Concepts about remote procedure calls (RPC)
+
+This is variant A of the project described above. This project
+focuses on de-coupling edge nodes' participation time from a search's
+life time. Specifically, different edge nodes may join or leave the
+search at arbitrary times. The front-end should display a stream of
+search results without any interruption whenever new nodes join the
+search or a node stops sharing data.
+
+**<span style="color: crimson;">10B. A Visual Search Platform with Heterogeneous Edge Nodes</span>**   (Poster, [Video](https://youtu.be/A1erv7_zGTI))<br>
+Students: Roger Iyengar, Chelsea Hu &nbsp;&nbsp;&nbsp;Mentor: Ziqiang Feng
+
+This is variant B of the above project.  This project focuses on
+handling the heterogeneity of participating edge nodes. While some
+powerful edge nodes (e.g., dash camera with an on-vehicle cloudlet)
+may be able to run expensive search pipelines (e.g., including a DNN),
+other weaker edge nodes (e.g., drones) may not. The students need to
+develop a systematic and principled way such that all edge devices can
+contribute to the same search, but possibly undertaking different
+processing onboard.
