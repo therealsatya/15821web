@@ -6,7 +6,7 @@ description: Project assets such as posters and YouTube videos of demos from pre
 nav: true
 ---
 
-Go to: [2015](#2015)&nbsp;&nbsp;[2016](#2016)&nbsp;&nbsp;[2017](#2017)&nbsp;&nbsp;[2018](#2018)
+Go to: [2015](#2015)&nbsp;&nbsp;[2016](#2016)&nbsp;&nbsp;[2017](#2017)&nbsp;&nbsp;[2018](#2018)&nbsp;&nbsp;[2019](#2019)&nbsp;&nbsp;(2020 will be added shortly)
 
 ### <a name="2015">December 1, 2015</a>
 
@@ -614,3 +614,95 @@ other weaker edge nodes (e.g., drones) may not. The students need to
 develop a systematic and principled way such that all edge devices can
 contribute to the same search, but possibly undertaking different
 processing onboard.
+
+### <a name="2019">December 3, 2019</a>
+
+**<span style="color: crimson;">1. Automotive Model Assembly Assistants with AR Feedback </span>**  (Poster, [Video](https://youtu.be/g_pWdpgpGzY))<br>
+Student: Chinedu Ojukwu &nbsp;&nbsp;&nbsp;Mentor: Junjue Wang
+
+Manual assembly still plays a crucial role in automotive production
+despite increasing automation. With the human in the loop comes two
+challenges: 1. Novices need to be trained for sophisticated tasks and
+closely supervised 2. Even with experienced workers, human error is
+still a major source of lost productivity in manufacturing. Wearable
+cognitive assistants (WCAs) are a potential solution to these
+challenges. WCAs guide users step-by-step through a task, catch
+mistakes that a user makes, and tells the user how to fix
+them. Previous wearable cognitive assistants have been developed for
+several assembly tasks, including 
+[Disk Tray Assembly](https://www.youtube.com/watch?v=AwWZcL9XGI0) 
+and [Sandwich Models](https://youtu.be/USakPP45WvM?t=193).
+
+In this project, you will build upon existing works to create an
+Automotive Model Assembly Assistants with AR-style feedback. You will
+work on [Tamiya car models](https://youtu.be/S-sMpwfuGl8), which are
+miniature versions of racing cars and its assembly process resembles
+car assembly in a factory. Previous work has created multiple object
+detectors to [identify user states]
+(https://github.com/montiblanc97/gabriel-car). This project will build
+upon the previous work to create assistants for the entire assembly
+procedure and provide AR-style feedback by overlaying virtual object
+onto the physical ones. You will explore and gain insights on how to
+push existing AR applications to incorporate semantic visual
+understanding and how to effectively communicate instructions using
+AR.
+
+**<span style="color: crimson;">3: Speculative wizard for edge-based interactive image search </span>**  (Poster, [Video](https://youtu.be/g7i8o8fVygo))<br>
+Student: Haithem Turki &nbsp;&nbsp;&nbsp;Mentor: Ziqiang Feng
+
+Eureka is a system that enables a user to perform content-based
+interactive search of unindexed image data using filters. It trades
+off compute cycles for better use of a human user's time. This project
+pushes that concept a bit further. When running a search, the "best"
+filters to use are unknown, so the user usually does
+trial-and-error. You are asked to add new features to Eureka that
+speculatively "try out" new filters and make suggestions. The basic
+idea is that, when the user labels the returned candidates, it creates
+a quasi test set, which can be used to guide the suggestion. With
+speculative execution of new filters using additional compute cycles,
+it has great potential to further improve a user's productivity.
+
+**<span style="color: crimson;">5. Cognitive Assistant for Training in Additive Manufacturing </span>**  (Poster, [Video](https://youtu.be/PQpR9TZMASw))<br>
+Student: Tianyu Gu&nbsp;&nbsp;&nbsp;Mentor: Asim Smailagic and Dan Siewiorek
+
+The project will develop a Cognitive Assistant that will guide a user
+with only a limited amount of previous training by a human operator
+through the steps necessary to safely and successfully operate metal
+additive manufacturing equipment. We will accomplish this using a
+laser power bed 3D printer set up.  The Cognitive Assistant will be
+developed and tested. Because its architecture allows cognitive
+engines to use a variety of programming frameworks and operating
+systems, expansion to support operation of other 3D printers will be
+possible.
+
+We have done some early work in this area, including virtual coaches
+and automated help-desk with remote expert paradigm that the project
+can benefit from and create new value. We have created and built over
+a dozen of different virtual coaches. Our Virtual Coaches represent a
+new generation of attentive personalized systems that can continuously
+monitor its client's activities and surroundings, detect situations
+where intervention would be desirable, offer prompt assistance, and
+provide appropriate feedback and encouragement. Virtual Coaches are
+intended to augment, supplement and, in some circumstances, be a
+substitute for an expert by offering guidance and help.
+
+Sometimes a worker requires assistance from experienced
+personnel. Apprenticeship programs let novices learn by observing and
+working with experienced workers. More recently, help desks have
+evolved to provide audio and visual access to experienced people for
+help with problem solving. The help desk can service many field
+workers simultaneously.  Additive manufacturing machine operators
+perform a number of procedures that are repeated including setup of
+the equipment in preparation for a build, cleaning of the equipment
+after a build, filter changes, routine maintenance of the equipment
+and a number of other regular operations. To support the equipment
+operator, the Virtual Coach will have the tasks and documentation
+needed for these procedures such as text and schematic
+drawings. Because it is centrally maintained, even if this information
+changes daily or hourly, workers still get accurate
+information. Sometimes a worker requires assistance from experienced
+personnel. Apprenticeship programs let novices learn by observing and
+working with experienced workers. More recently, help desks have
+evolved to provide audio and visual access to experienced people for
+help with problem solving. The help desk can service many field
+workers simultaneously.
