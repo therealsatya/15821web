@@ -6,7 +6,7 @@ description: Project assets such as posters and YouTube videos of demos from pre
 nav: true
 ---
 
-Go to: [2015](#2015)&nbsp;&nbsp;[2016](#2016)&nbsp;&nbsp;[2017](#2017)&nbsp;&nbsp;[2018](#2018)&nbsp;&nbsp;[2019](#2019)&nbsp;&nbsp;(2020 will be added shortly)
+Go to: [2015](#2015)&nbsp;&nbsp;[2016](#2016)&nbsp;&nbsp;[2017](#2017)&nbsp;&nbsp;[2018](#2018)&nbsp;&nbsp;[2019](#2019)&nbsp;&nbsp;[2020](#2020)
 
 ### <a name="2015">December 1, 2015</a>
 
@@ -716,3 +716,138 @@ Guests:  Verizon Researchers
 
 **<span style="color: crimson;"> Guest Demo (InterDigital);   AdvantEDGE Platform</span>**  ([Video](https://youtu.be/fpSWh_o7gnM))<br>
 Guests:  InterDigital Researchers
+
+### <a name="2020">November 17, 2020</a>
+
+**<span style="color: crimson;">1. Low-Bandwidth Video Calling </span>**  (Poster)<br>
+Student: Ananya Joshi  &nbsp;&nbsp;&nbsp; Mentor: Roger Iyengar
+
+The Covid-19 pandemic has forced many people to conduct meetings over
+video calls, using products like Zoom and FaceTime. This allows
+participants to see each others' faces, unlike traditional phone
+calls. Displaying faces enables nonverbal communication in the form of
+facial expressions. However, transmitting video requires substantially
+more bandwidth than audio. In this project, you will leverage edge
+computing to build a communication application that shows facial
+expressions but uses much less bandwidth than video calling.
+
+A client will transmit video to a cloudlet, which will extract
+information about the facial expression of the person in the
+video. The cloudlet will then send this facial expression information
+to the other users. The other user's devices will synthesize an avatar
+depicting the original facial expression. Transmitting facial
+expression information requires less bandwidth than transmitting whole
+video frames. You will run experiments to quantify the true bandwidth
+savings. Information about people's facial expressions will be
+extracted using the Azure Face Cognitive Service, which can be run on
+cloudlets using Docker.
+
+
+**<span style="color: crimson;">2. Assembly Instruction Assistant </span>**  (Poster, [Video](https://youtu.be/-Fuo8o_qbM0))<br>
+Student: Nathan Riopelle  &nbsp;&nbsp;&nbsp; Mentor: Roger Iyengar
+
+Working with an expert to complete a task is much more pleasant than
+trying to follow written instructions by yourself. Products such as
+Ikea furniture and children’s toys require assembly by end users who
+have never done these tasks before. If someone makes a mistake when
+following the instructions, they might not realize it until several
+steps later. However, an expert can immediately tell somebody whether
+they have completed a step correctly or not.
+
+In this project, you will create an automated system that acts as an
+expert for an assembly task. The user will wear an AR headset with a
+camera, and processing will be done using a cloudlet. Your system will
+leverage several research tools for wearable cognitive assistance
+applications and computer vision models. The following videos depict
+similar applications:
+1. [https://youtu.be/USakPP45WvM](https://youtu.be/USakPP45WvM)
+2. [https://youtu.be/qDPuvBWNIUs](https://youtu.be/qDPuvBWNIUs)
+
+
+**<span style="color: crimson;">3. Super-resolution: A Binoculars App for your phone </span>**  (Poster, [Video]())<br>
+student: Mihir Bala  &nbsp;&nbsp;&nbsp; Mentor: Babu Pillai
+
+The goal of this project is to build an app and edge service to use
+your phone like a pair of binoculars.  The idea is to take the live
+camera view and zoom in to show an enlarged view of the scene.  At
+high zoom levels, the image will become blocky or blurry, and (when
+the phone is hand-held) very shaky.  To address these issues, we will
+build an edge service that will take the video stream from the device,
+stabilize it, and perform super-resolution processing, allowing one to
+present an output image at a higher resolution than the original
+camera image.
+
+Various techniques for super-resolution have been developed in the
+past 20 years.  Early techniques used multiple, slightly-shifted
+images (like those from a shaky camera phone) to mathematically
+hypothesize the high-resolution source that would best explain the
+images seen.  More recent techniques employ deep-learning models that
+have been trained to hallucinate plausible high resolution images from
+lower resolution ones, and can be used with just a single source
+image.  Any of these techniques can be used, depending on student
+interest (classical image processing or Deep Learning) and
+availability of code.  All of these are computationally intensive, and
+will need computational power of the edge to support the mobile
+device.
+
+A final demo will show a live view on the phone, comparing a simple
+zoomed in view with the stabilized, super-resolution view.  Depending
+on student interest, this could be a custom-built Android application,
+or it could be a modified version of the Gabriel client built in
+Satya's research group.  Or the whole project could be http-based, and
+the "application" can just be a browser-based interface.
+
+**<span style="color: crimson;">7. Multi-level Consistency Management Between Cloud and Edge </span>**  (Poster, [Video](https://youtu.be/0hP8wmH-gCA))<br>
+Student: Jason Choi  &nbsp;&nbsp;&nbsp;  Mentor: Tom Eiszler
+
+OpenStreetMap is a community-driven database for mapping that is rich
+with local knowledge. The typical data consistency model uses the
+cloud as the source of truth and edge nodes (clients) cache data from
+the cloud. This data may become stale over time if the connectivity to
+the cloud is poor or the client is disconnected entirely. OpenScout is
+an extensible pipeline for performing object detection and facial
+recognition on video frames sent from Android devices. This project
+will explore using OpenScout to send the coordinates of detected
+objects to an edge-based OpenStreetMap instance with different
+temporal layers. A consistency model will be developed to explore
+using the edge-based OSM as the ground truth for ephemeral objects (on
+the timescale of minutes or hours) and the cloud-based OSM as the
+source when objects are more permanent (on the order of days or
+weeks). Most of the work will revolve around OpenStreetMap and its
+visual editor iD (written in Javascript), how to determine where/when
+to propagate updates and which information to display to the
+user. There may be minimal changes to the current release of
+OpenScout.
+
+
+**<span style="color: crimson;">10. Rapid deployment of newly trained models at the Edge </span>**  (Poster, [Video](https://youtu.be/L5R6of1_hDM))<br>
+Student: Adrian Chang  &nbsp;&nbsp;&nbsp;  Mentor: Shilpa George
+
+Previous efforts in computer vision help to identify and segment
+common objects in a collection of images or videos.  Example of such
+work are:
+* For Video: SiamMask (
+[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Fast_Online_Object_Tracking_and_Segmentation_A_Unifying_Approach_CVPR_2019_paper.pdf), [demo video](https://youtu.be/I_iOVrcpEBw?t=36%3E)), and [code](https://github.com/foolwood/SiamMask.git)) 
+is used to detect and segment objects from videos in real time, from a
+single bounding box annotation and produce segmentation mask and
+bounding boxes as output.
+* For Images: Deep object co-segmentation ([code](https://github.com/zswzifir/DOCS-pytorch)), segments common objects (ignoring background such as sky, etc) of the same class within a pair of images.
+
+A user can upload such a collection of images to Delphi to learn a
+just in time object detector. Mask RCNN pretrained on COCO can be
+customized to have good performance using just 70 images (model AUC of
+~0.6). Delphi notifies the user once the training of the model is
+completed (~15 min on a V100 GPU).  The DNN can then be deployed for
+real time detection.
+
+During an assembly task, a user can collect and upload videos of a
+part he wants to detect.  The user then uploads the collected images
+or videos to Delphi and trains a new detector for the object of
+interest.  With minimal labeling (one bounding box per video for
+SiamMask), the user can obtain ground truth annotations for the
+required object. She can start the training session in Delphi and once
+done, deploy the model for inferencing.
+
+Requires knowledge of Android SDK development, minimal computer
+vision. Computer vision codes required are publicly available on
+github.
