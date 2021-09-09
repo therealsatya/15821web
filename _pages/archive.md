@@ -618,7 +618,7 @@ processing onboard.
 ### <a name="2019">December 3, 2019</a>
 
 **<span style="color: crimson;">1. Automotive Model Assembly Assistants with AR Feedback </span>**  (Poster, [Video](https://youtu.be/g_pWdpgpGzY))<br>
-Student: Chinedu Ojukwu &nbsp;&nbsp;&nbsp;Mentor: Junjue Wang
+Student: Chinedu Ojukwu &nbsp;&nbsp;&nbsp; Mentor: Junjue Wang
 
 Manual assembly still plays a crucial role in automotive production
 despite increasing automation. With the human in the loop comes two
@@ -706,3 +706,13 @@ working with experienced workers. More recently, help desks have
 evolved to provide audio and visual access to experienced people for
 help with problem solving. The help desk can service many field
 workers simultaneously.
+ 
+
+**<span style="color: crimson;">7: Multi-modal mixed-initiative AR </span>**  (Poster, [Video](https://youtu.be/JQn2S6tOkYQ))<br>
+Student: Fanglin Chen &nbsp;&nbsp;&nbsp; Mentor: Junjue Wang
+
+**<span style="color: crimson;"> Guest Demo (Verizon):  Mobile Edge Computing for Computer Vision</span>**  ([Video](https://youtu.be/vchNSuVlmnE))<br>
+Guests:  Verizon Researchers
+
+**<span style="color: crimson;"> Guest Demo (InterDigital);   AdvantEDGE Platform</span>**  ([Video](https://youtu.be/fpSWh_o7gnM))<br>
+Guests:  InterDigital Researchers
