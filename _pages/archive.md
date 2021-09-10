@@ -719,7 +719,7 @@ Guests:  InterDigital Researchers
 
 ### <a name="2020">November 17, 2020</a>
 
-**<span style="color: crimson;">1. Low-Bandwidth Video Calling </span>**  (Poster)<br>
+**<span style="color: crimson;">1. Low-Bandwidth Video Calling </span>**  ([Poster](../assets/POSTERS/2020-ananya-joshi-poster.pdf))<br>
 Student: Ananya Joshi  &nbsp;&nbsp;&nbsp; Mentor: Roger Iyengar
 
 The Covid-19 pandemic has forced many people to conduct meetings over
@@ -743,7 +743,7 @@ extracted using the Azure Face Cognitive Service, which can be run on
 cloudlets using Docker.
 
 
-**<span style="color: crimson;">2. Assembly Instruction Assistant </span>**  (Poster, [Video](https://youtu.be/-Fuo8o_qbM0))<br>
+**<span style="color: crimson;">2. Assembly Instruction Assistant </span>**  ([Poster](../assets/POSTERS/2020-nathan-riopelle-poster.pdf), [Video](https://youtu.be/-Fuo8o_qbM0))<br>
 Student: Nathan Riopelle  &nbsp;&nbsp;&nbsp; Mentor: Roger Iyengar
 
 Working with an expert to complete a task is much more pleasant than
@@ -797,7 +797,7 @@ or it could be a modified version of the Gabriel client built in
 Satya's research group.  Or the whole project could be http-based, and
 the "application" can just be a browser-based interface.
 
-**<span style="color: crimson;">7. Multi-level Consistency Management Between Cloud and Edge </span>**  (Poster, [Video](https://youtu.be/0hP8wmH-gCA))<br>
+**<span style="color: crimson;">7. Multi-level Consistency Management Between Cloud and Edge </span>**  ([Poster](../assets/POSTERS/2020-jason-choi-poster.pdf), [Video](https://youtu.be/0hP8wmH-gCA))<br>
 Student: Jason Choi  &nbsp;&nbsp;&nbsp;  Mentor: Tom Eiszler
 
 OpenStreetMap is a community-driven database for mapping that is rich
@@ -820,7 +820,7 @@ user. There may be minimal changes to the current release of
 OpenScout.
 
 
-**<span style="color: crimson;">10. Rapid deployment of newly trained models at the Edge </span>**  (Poster, [Video](https://youtu.be/L5R6of1_hDM))<br>
+**<span style="color: crimson;">10. Rapid deployment of newly trained models at the Edge </span>**  ([Poster](../assets/POSTERS/2020-adrian-chang-poster.pdf), [Video](https://youtu.be/L5R6of1_hDM))<br>
 Student: Adrian Chang  &nbsp;&nbsp;&nbsp;  Mentor: Shilpa George
 
 Previous efforts in computer vision help to identify and segment
