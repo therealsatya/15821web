@@ -209,7 +209,7 @@ using mechanisms to vary gait such as adding a weight to one leg.
 
 ### <a name="2016">December 6, 2016</a>
 
-**<span style="color: crimson;">1a.  Wearable Cognitive Assistance for AED Devices (device operation) </span>** (Poster, [Video](https://youtu.be/SYhCATfQKzc))<br>
+**<span style="color: crimson;">1A.  Wearable Cognitive Assistance for AED Devices (device operation) </span>** ([Poster](../assets/POSTERS/2016-project-01A-poster.pdf), [Video](https://youtu.be/SYhCATfQKzc))<br>
 Students: Hongkun Leng, Haodong Liu, Yuqi Liu &nbsp;&nbsp;&nbsp;Mentors: Zhao Siyan and Junjue Wang
 
 Using an Automatic External Defibrillator (AED) is a time-critical
@@ -234,12 +234,12 @@ also be needed. It also involves Android programming (on Google
 Glass). The real-time video transmission part is already built and
 open-sourced.
 
-**<span style="color: crimson;">1b.  Wearable Cognitive Assistance for AED Devices (pad placement) </span>** (Poster, [Video](https://youtu.be/SoH7iExefuQ))<br>
+**<span style="color: crimson;">1B.  Wearable Cognitive Assistance for AED Devices (pad placement) </span>** ([Poster](../assets/POSTERS/2016-project-01B-poster.pdf), [Video](https://youtu.be/SoH7iExefuQ))<br>
 Students:  Jineet Doshi, Toby Li, Rui Silva  &nbsp;&nbsp;&nbsp;Mentor: Zhao Siyan and Junjue Wang
 
 Description same as 1a
 
-**<span style="color: crimson;">2. Privacy Mediator for Audio Data </span>** (Poster, [Video](https://youtu.be/pUZNVQSACD8))<br>
+**<span style="color: crimson;">2. Privacy Mediator for Audio Data </span>** ([Poster](../assets/POSTERS/2016-project-02-poster.pdf), [Video](https://youtu.be/pUZNVQSACD8))<br>
 Students:  Ankit Jain, Rajat Pandey, Ayushi Singh &nbsp;&nbsp;&nbsp;Mentor: Junjue Wang
 
 Consumer acceptance of IoT deployment is shadowed by privacy
@@ -268,7 +268,7 @@ cloudlets. You'll focus on audio data analysis on cloudlets. There are
 a few widely-used open-source automatic speech recognition frameworks
 you can leverage (CMU Sphinx, Kaldi, etc).
 
-**<span style="color: crimson;">4.  Hub for Internet of Things </span>** (Poster,  [Video](https://youtu.be/AThME5D-Hoo))<br> 
+**<span style="color: crimson;">4.  Hub for Internet of Things </span>** ([Poster](../assets/POSTERS/2016-project-04-poster.pdf),  [Video](https://youtu.be/AThME5D-Hoo))<br> 
 Students: Ken Ling, Lehao Sun, Mengjin Yan &nbsp;&nbsp;&nbsp;Mentor:  Jason Hong
 
 One likely deployment model for Internet of Things is to have
@@ -279,7 +279,7 @@ devices to this hub in a simple and secure manner, as well as offering
 new kinds of services, such as linking different devices together or
 doing simple kinds of end-user programming.
 
-**<span style="color: crimson;">7. Interactive Rehabilitation Device </span>** (Poster, [Video](https://youtu.be/wjlpSe5Glx0))<br>
+**<span style="color: crimson;">7. Interactive Rehabilitation Device </span>** ([Poster](../assets/POSTERS/2016-project-07-poster.pdf), [Video](https://youtu.be/wjlpSe5Glx0))<br>
 Students:  Eric  Markvicka, Tianshi Li &nbsp;&nbsp;&nbsp;Mentor: Zhuo Chen
 
 This project will use a wearable biomonitoring device that is
@@ -298,7 +298,7 @@ storage. An interactive user interface will display relevant
 biomonitoring signals and suggests ways to prevent or alleviate muscle
 stiffening.
 
-**<span style="color: crimson;">9. Combining a Variety of Sensors for User-Oriented IoT (SpineCouch) </span>**  (Poster, [Video](https://youtu.be/MVQxDOEcCfk))<br>
+**<span style="color: crimson;">9. Combining a Variety of Sensors for User-Oriented IoT (SpineCouch) </span>**  ([Poster](../assets/POSTERS/2016-project-09-poster.pdf), [Video](https://youtu.be/MVQxDOEcCfk))<br>
 Students:  Kyuin Lee, Raghu Mulukutla, Qian Yang  &nbsp;&nbsp;&nbsp;Mentor: Asim Smailagic, Dan Siewiorek
 
 In the Internet of Things (IoT) applications are based on large
@@ -321,7 +321,7 @@ community aggregated summaries. These technologies should enable
 self-monitoring and sharing of progress with healthcare providers.
 
 
-**<span style="color: crimson;">11. Efficient Large File Sharing on Cloudlets </span>**  (Poster, [Video](https://youtu.be/rsPIEtlbHrs))<br>
+**<span style="color: crimson;">11. Efficient Large File Sharing on Cloudlets </span>**  ([Poster](../assets/POSTERS/2016-project-11-poster.pdf), [Video](https://youtu.be/rsPIEtlbHrs))<br>
 Students: Arushi Grover,  Preeti Murthy, Prathi Shastry &nbsp;&nbsp;&nbsp;Mentor: Jan Harkes
 
 The Coda Distributed File System (Coda) has multiple features that
@@ -437,7 +437,7 @@ servers
 
 ### <a name="2018">December 6, 2018</a>
 
-**<span style="color: crimson;">2.  Virtual Coach: Myoelectric Prosthetics for Amputation Recovery</span>**  (Poster, [Video](https://youtu.be/Wdfwa8wb_5M))<br>
+**<span style="color: crimson;">2.  Virtual Coach: Myoelectric Prosthetics for Amputation Recovery</span>**  ([Poster](../assets/POSTERS/2018-project-02-poster.pdf)), [Video](https://youtu.be/Wdfwa8wb_5M))<br>
 Students: Saksham Chitkara, Varun Joshi, Kevin Wu, Mohamed Razouane  &nbsp;&nbsp;&nbsp;Mentors: Asim Smailagic and Dan Siewiorek
 
 For individuals who undergo partial arm amputations, robotic
@@ -474,7 +474,7 @@ transferring an object from one hand to the other, given EMG data
 coupled with Kinect 2 depth and RGB data.
 
 
-**<span style="color: crimson;">5.  Augmented Reality Shooting Gaming: Gestural Interface</span>** (Poster, [Video](https://youtu.be/LFo63Q6Fpjg))<br>
+**<span style="color: crimson;">5.  Augmented Reality Shooting Gaming: Gestural Interface</span>** ([Poster](../assets/POSTERS/2018-project-05-poster.pdf), [Video](https://youtu.be/LFo63Q6Fpjg))<br>
 Students: Tan Li, Yang Zhang  &nbsp;&nbsp;&nbsp;Mentor: Padmanabhan Pillai
 
 Augmented reality / mixed reality is an emerging technology that may
@@ -501,7 +501,7 @@ user aims and shoots at AR targets using virtual gun held in hand.
 
 
 
-**<span style="color: crimson;">7. Wearable Time Machine</span>** (Poster, [Video](https://youtu.be/5ktMU8wAEjc))<br>
+**<span style="color: crimson;">7. Wearable Time Machine</span>** ([Poster](../assets/POSTERS/2018-project-07-poster.pdf), [Video](https://youtu.be/5ktMU8wAEjc))<br>
 Students:  Abinaya Hariharasubramanian, Nirav Atre, Shilpa George  &nbsp;&nbsp;&nbsp;Mentor: Junjue Wang
 
 Objects help people remember. Many things are valuable because they
@@ -533,7 +533,7 @@ and analysis application using deep learning based object
 detection. Depending on your interests, features can be
 changed. Familiarity with DNNs is preferred but not required.
 
-**<span style="color: crimson;">8. Cloudlet-based Real-Time Deep Face Swap on Mobile Devices</span>**  (Poster,  [Video](https://youtu.be/SxCjD-vcJps))<br>
+**<span style="color: crimson;">8. Cloudlet-based Real-Time Deep Face Swap on Mobile Devices</span>**  ([Poster](../assets/POSTERS/2018-project-08-poster.pdf),  [Video](https://youtu.be/SxCjD-vcJps))<br>
 Students: Ziheng Liao &nbsp;&nbsp;&nbsp;Mentor:  Junjue Wang
 
 Recent developments in deep learning have made it possible to
@@ -559,7 +559,7 @@ make existing face swap DNNs run in real-time can be
 challenging. Strong system optimization skills and familiarity with
 DNNs are preferred.
 
-**<span style="color: crimson;">10A. Visual Search with Dynamic Participation and Fault Tolerance</span>**  (Poster, [Video](https://youtu.be/17QzdWZ7GSg))<br>
+**<span style="color: crimson;">10A. Visual Search with Dynamic Participation and Fault Tolerance</span>**  ([Poster](../assets/POSTERS/2018-project-10A-poster.pdf), [Video](https://youtu.be/17QzdWZ7GSg))<br>
 Students: Karan Dhabalia, Matthew Chu  &nbsp;&nbsp;&nbsp;Mentor: Ziqiang Feng
 
 A child has gone missing. An AMBER alert is issued. The authority
@@ -603,7 +603,7 @@ search at arbitrary times. The front-end should display a stream of
 search results without any interruption whenever new nodes join the
 search or a node stops sharing data.
 
-**<span style="color: crimson;">10B. A Visual Search Platform with Heterogeneous Edge Nodes</span>**   (Poster, [Video](https://youtu.be/A1erv7_zGTI))<br>
+**<span style="color: crimson;">10B. A Visual Search Platform with Heterogeneous Edge Nodes</span>**   ([Poster](../assets/POSTERS/2018-project-10B-poster.pdf), [Video](https://youtu.be/A1erv7_zGTI))<br>
 Students: Roger Iyengar, Chelsea Hu &nbsp;&nbsp;&nbsp;Mentor: Ziqiang Feng
 
 This is variant B of the above project.  This project focuses on
@@ -617,7 +617,7 @@ processing onboard.
 
 ### <a name="2019">December 3, 2019</a>
 
-**<span style="color: crimson;">1. Automotive Model Assembly Assistants with AR Feedback </span>**  (Poster, [Video](https://youtu.be/g_pWdpgpGzY))<br>
+**<span style="color: crimson;">1. Automotive Model Assembly Assistants with AR Feedback </span>**  ([Video](https://youtu.be/g_pWdpgpGzY))<br>
 Student: Chinedu Ojukwu &nbsp;&nbsp;&nbsp; Mentor: Junjue Wang
 
 Manual assembly still plays a crucial role in automotive production
@@ -647,7 +647,7 @@ push existing AR applications to incorporate semantic visual
 understanding and how to effectively communicate instructions using
 AR.
 
-**<span style="color: crimson;">3: Speculative wizard for edge-based interactive image search </span>**  (Poster, [Video](https://youtu.be/g7i8o8fVygo))<br>
+**<span style="color: crimson;">3: Speculative wizard for edge-based interactive image search </span>**  ([Video](https://youtu.be/g7i8o8fVygo))<br>
 Student: Haithem Turki &nbsp;&nbsp;&nbsp;Mentor: Ziqiang Feng
 
 Eureka is a system that enables a user to perform content-based
@@ -662,7 +662,7 @@ a quasi test set, which can be used to guide the suggestion. With
 speculative execution of new filters using additional compute cycles,
 it has great potential to further improve a user's productivity.
 
-**<span style="color: crimson;">5. Cognitive Assistant for Training in Additive Manufacturing </span>**  (Poster, [Video](https://youtu.be/PQpR9TZMASw))<br>
+**<span style="color: crimson;">5. Cognitive Assistant for Training in Additive Manufacturing </span>**  ([Video](https://youtu.be/PQpR9TZMASw))<br>
 Student: Tianyu Gu&nbsp;&nbsp;&nbsp;Mentor: Asim Smailagic and Dan Siewiorek
 
 The project will develop a Cognitive Assistant that will guide a user
@@ -764,8 +764,8 @@ similar applications:
 2. [https://youtu.be/qDPuvBWNIUs](https://youtu.be/qDPuvBWNIUs)
 
 
-**<span style="color: crimson;">3. Super-resolution: A Binoculars App for your phone </span>**  (Poster, [Video]())<br>
-student: Mihir Bala  &nbsp;&nbsp;&nbsp; Mentor: Babu Pillai
+**<span style="color: crimson;">3. Super-resolution: A Binoculars App for your phone </span>**  ([Poster](../assets/POSTERS/2020-mihir-bala-poster.pdf), [Video](https://youtu.be/1SWLH99KrVQ))<br>
+Student: Mihir Bala  &nbsp;&nbsp;&nbsp; Mentor: Padmanabhan Pillai
 
 The goal of this project is to build an app and edge service to use
 your phone like a pair of binoculars.  The idea is to take the live
