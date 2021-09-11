@@ -2,7 +2,7 @@
 layout: page
 title: Archive
 permalink: /archive/
-description: Project assets such as posters and YouTube videos of demos from previous classes
+description: Posters and YouTube videos of final demos from previous classes
 nav: true
 ---
 
@@ -10,7 +10,7 @@ Go to: [2015](#2015)&nbsp;&nbsp;[2016](#2016)&nbsp;&nbsp;[2017](#2017)&nbsp;&nbs
 
 ### <a name="2015">December 1, 2015</a>
 
-**<span style="color: crimson;">1. Environmental Camera Based Virtual Gym Coach</span>** (Poster, [Video](https://youtu.be/TYud9XvhENo))<br>
+**<span style="color: crimson;">1. Environmental Camera Based Virtual Gym Coach</span>** ([Poster](../assets/POSTERS/2015-project-01-poster.pdf), [Video](https://youtu.be/TYud9XvhENo))<br>
 Students: Misha Kutsovsky, Sakshi Goel &nbsp;&nbsp;&nbsp; Mentor: Zhuo Chen
 
 This project aims at using environmental cameras to detect a user's
@@ -25,7 +25,7 @@ system can be built on top of Gabriel, but the client part has to be
 rewritten if we use non-Android based cameras.
 
 
-**<span style="color: crimson;">2. Blind person assistance using object recognition</span>** (Poster, [Video](https://youtu.be/MO7QD23pREM))<br>
+**<span style="color: crimson;">2. Blind person assistance using object recognition</span>** ([Poster](../assets/POSTERS/2015-project-02-poster.pdf), [Video](https://youtu.be/MO7QD23pREM))<br>
 Students: Shruti Dhoot, Vrushali Bhutada &nbsp;&nbsp;&nbsp; Mentor: Brandon Amos
 
 This project provides naive assistance to visually impaired Google
@@ -45,8 +45,8 @@ Skills Learned: Python, Caffe (C++/Python) or Torch (Lua), OpenCV
 
 **<span style="color: crimson;">4. Interactive Google Street View hyper-lapse simulation</span>**<br>
 
-Students: (a) Junjue Wang, Xinkai Wang (Poster, [Video](https://youtu.be/_4UlFiiQENA))<br>
-Students: (b) Varun Saravagi, Harsha Rastogi (Poster, [Video](https://youtu.be/MKSxd_fvAQ4))<br>
+Students: (a) Junjue Wang, Xinkai Wang ([Poster](../assets/POSTERS/2015-project-04A-poster.pdf), [Video](https://youtu.be/_4UlFiiQENA))<br>
+Students: (b) Varun Saravagi, Harsha Rastogi ([Poster](../assets/POSTERS/2015-project-04B-poster.pdf), [Video](https://youtu.be/MKSxd_fvAQ4))<br>
 Mentor: Brandon Amos
 
 In addition to the latency benefit, a cloudlet is a perfect place for
@@ -61,7 +61,7 @@ up downloading of the image data (reference demo video:
 https://vimeo.com/63653873).
 
 
-**<span style="color: crimson;">5. Camera-based recognition</span>** (Poster, [Video](https://youtu.be/bFFeFTmQydQ))<br>
+**<span style="color: crimson;">5. Camera-based recognition</span>** ([Poster](../assets/POSTERS/2015-project-05-poster.pdf), [Video](https://youtu.be/bFFeFTmQydQ))<br>
 Students: Subramanian Natarajan, Priyanka Kulkarni  &nbsp;&nbsp;&nbsp; Mentor:  Babu Pillai
 
 This project seeks to use camera based sensing of gestures in an
@@ -79,7 +79,7 @@ designed to respond to other camera-sensed inputs, such as a laser
 pointer on real objects or projected screen.  
 
 
-**<span style="color: crimson;">6. Super Resolution</span>** (Poster, [Video](https://youtu.be/fhc2x8DdiVA))<br>
+**<span style="color: crimson;">6. Super Resolution</span>** ([Poster](../assets/POSTERS/2015-project-06-poster.pdf), [Video](https://youtu.be/fhc2x8DdiVA))<br>
 Students: Joel Cao, Caglayan Gemici &nbsp;&nbsp;&nbsp; Mentor: Babu Pillai
 
 This project will attempt to apply superresolution techniques to
@@ -92,7 +92,7 @@ OpenCV.  The goal of the project is to demonstrate some sort of
 application showing an enhanced live view of what the camera is
 capturing (e.g., a magnifier app).
 
-**<span style="color: crimson;">7. Lost child</span>** (Poster, [Video](https://youtu.be/zdGDUMj9gKY))<br>
+**<span style="color: crimson;">7. Lost child</span>** ([Poster](../assets/POSTERS/2015-project-07-poster.pdf), [Video](https://youtu.be/zdGDUMj9gKY))<br>
 Students: Sahil Shah, Aditya Gabbita  &nbsp;&nbsp;&nbsp; Mentor: Khalid Elgazzar
 
 Finding a missing child in the crowd is a crucial and non trivial
@@ -117,7 +117,7 @@ Nexus 6) Hint: Accuracy is important but not a major deal in the
 project -- the focus is on how fast the process would be (with
 reasonable accuracy).
 
-**<span style="color: crimson;">9. Activity Recognition with Mobile and Wearable Devices</span>** (Poster, [Video](https://youtu.be/H6gk6eo3Qp0))<br>
+**<span style="color: crimson;">9. Activity Recognition with Mobile and Wearable Devices</span>** ([Poster](../assets/POSTERS/2015-project-09-poster.pdf), [Video](https://youtu.be/H6gk6eo3Qp0))<br>
 Students: Sarthak Dubey, Pallavi Santhosh Kumar  &nbsp;&nbsp;&nbsp; Mentor: Jim Osborne
 
 Used together, mobile/wearable sensor readings and task/time/motion
@@ -133,7 +133,7 @@ This project has four main pieces:
 
 (Note: the general term for this form of user interaction is “ecological momentary assessment” or EMA. There is a substantial literature on the technique to which the course instructors have contributed. A good introductory slide set and paper are available here: https://www.dropbox.com/sh/76x5uaekcd5xo38/AADg2KOeVTmxePK5bOzAk6Nsa?dl=0)
 
-**<span style="color: crimson;">10. Interactive Tactile Maps Application</span>** (Poster, [Video](https://youtu.be/HCwI1SDJdls))<br>
+**<span style="color: crimson;">10. Interactive Tactile Maps Application</span>** ([Poster](../assets/POSTERS/2015-project-10-poster.pdf), [Video](https://youtu.be/HCwI1SDJdls))<br>
 Students:  Shekhar Sharma, Siddharth Shah, Aravind Selvan  &nbsp;&nbsp;&nbsp; Mentor: Brandon Taylor
 
 Blind individuals often struggle to make geographic sense of
@@ -155,7 +155,7 @@ capabilities to provide relevant and useful feedback to the users.
 Most of the work itself will be in designing an Android application,
 though some amount of 3D printing will be required.  
 
-**<span style="color: crimson;">11.  Cognitive Assistance using Google Glass to Coach Blood Pressure Measurement</span>** (Poster, [Video](https://youtu.be/c4wr4xjC0yM))<br>
+**<span style="color: crimson;">11.  Cognitive Assistance using Google Glass to Coach Blood Pressure Measurement</span>** ([Poster](../assets/POSTERS/2015-project-11-poster.pdf), [Video](https://youtu.be/c4wr4xjC0yM))<br>
 Students: Siyan Zhao, Kedar Amladi, Vinay Shankar &nbsp;&nbsp;&nbsp; Mentors: Asim Smailagic and Dan Siewiorek 
 
 Blood pressure (BP) is one of the key measurements used to monitor
@@ -181,7 +181,7 @@ instruct and track the use of the BP monitor, to recognize errors, and
 to guide corrective actions. Usability evaluation will consist of a
 pilot study.
 
-**<span style="color: crimson;">12.  Gait Analysis and Abnormality Detection</span>** (Poster, [Video](https://youtu.be/Mi3nz7_KbSY))<br>
+**<span style="color: crimson;">12.  Gait Analysis and Abnormality Detection</span>** ([Poster](../assets/POSTERS/2015-project-12-poster.pdf), [Video](https://youtu.be/Mi3nz7_KbSY))<br>
 Students: Nat Jeffries &nbsp;&nbsp;&nbsp; Mentors: Asim Smailagic and Dan Siewiorek
 
 Gait variability, defined as fluctuations in gait characteristics from
@@ -437,7 +437,7 @@ servers
 
 ### <a name="2018">December 6, 2018</a>
 
-**<span style="color: crimson;">2.  Virtual Coach: Myoelectric Prosthetics for Amputation Recovery</span>**  ([Poster](../assets/POSTERS/2018-project-02-poster.pdf)), [Video](https://youtu.be/Wdfwa8wb_5M))<br>
+**<span style="color: crimson;">2.  Virtual Coach: Myoelectric Prosthetics for Amputation Recovery</span>**  ([Poster](../assets/POSTERS/2018-project-02-poster.pdf), [Video](https://youtu.be/Wdfwa8wb_5M))<br>
 Students: Saksham Chitkara, Varun Joshi, Kevin Wu, Mohamed Razouane  &nbsp;&nbsp;&nbsp;Mentors: Asim Smailagic and Dan Siewiorek
 
 For individuals who undergo partial arm amputations, robotic
