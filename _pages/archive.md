@@ -6,7 +6,7 @@ description: Posters and YouTube videos of final demos from previous classes
 nav: true
 ---
 
-Go to: [2015](#2015)&nbsp;&nbsp;[2016](#2016)&nbsp;&nbsp;[2017](#2017)&nbsp;&nbsp;[2018](#2018)&nbsp;&nbsp;[2019](#2019)&nbsp;&nbsp;[2020](#2020)
+Go to: [2015](#2015)&nbsp;&nbsp;[2016](#2016)&nbsp;&nbsp;[2017](#2017)&nbsp;&nbsp;[2018](#2018)&nbsp;&nbsp;[2019](#2019)&nbsp;&nbsp;[2020](#2020)&nbsp;&nbsp;[2021](#2021)
 
 ### <a name="2015">December 1, 2015</a>
 
@@ -851,3 +851,184 @@ done, deploy the model for inferencing.
 Requires knowledge of Android SDK development, minimal computer
 vision. Computer vision codes required are publicly available on
 github.
+
+
+### <a name="2021">November 30, 2021</a>
+
+**<span style="color: crimson;">1. Edge-based Assembly Assistant </span>**  ([Video](https://youtu.be/gxW_W0havLE) [Poster](../assets/POSTERS/2021-project01-poster-imaran-lakshmipathy.pdf))<br>
+Students: Arjun Lakshmipathy and Umaymah Imran  &nbsp;&nbsp;&nbsp; Mentor: Roger Iyengar
+
+The goal of this project is to create an app that runs on a
+smartphone, leverages cloudlet resources over a wireless link, and
+walks users through a physical assembly task. The app will use
+computer vision to determine when steps of the task have been
+completed. The phone offloads images to a cloudlet for processing. You
+can see an example of such an app here.  To keep the workload of the
+project manageable, your app will likely only be able to detect a
+modest number of steps. However, this project will give you hands-on
+experience in creating an edge-native application and a good sense for
+the challenges of getting computer vision models to work well in real
+systems.
+
+**<span style="color: crimson;">2. Real-Time Edge-based Vision Assistant</span>**  ([Video](https://youtu.be/DtztnqI8n-8) [Poster](../assets/POSTERS/2021-project02-poster-borom-shetty.pdf))<br>
+Students: Aditya Shetty and William Borom  &nbsp;&nbsp;&nbsp; Mentor: Roger Iyengar
+
+[Microsoft Seeing AI](https://www.microsoft.com/en-us/ai/seeing-ai)
+offers a feature that captures a picture with a phone camera and
+describes the scene in this photo to a blind person.  You will
+implement this feature yourself using publicly available machine
+learning models. You can get creative about which models you chose to
+use, and how you interpret the model's output. For example, you can
+use an object detector that will tell you labels and bounding box
+coordinates for objects in the image. But then how do you summarize
+the spatial relations of these objects as text? Are there models that
+can provide more general information (such as "this is a bedroom"
+rather than just "there is a bed, a dresser, and a lamp")?
+
+**<span style="color: crimson;">3. Bringing NeRFs into Augmented Reality</span>**  ([Video](https://youtu.be/crR0uiMYJ3Q) [Poster](../assets/POSTERS/2021-project03-poster-huang-garcia.pdf))<br>
+Students: Tianshu Huang and Alberto Garcia &nbsp;&nbsp;&nbsp; Mentor: Haithem Turki
+
+Recent advances in neural rendering, such as neural radiance fields
+(NeRFs), open a promising new avenue to model arbitrary objects and
+scenes in 3D from a set of calibrated images. NeRFs can faithfully
+render detailed scenes from any view while simultaneously offering a
+high degree of compression in terms of storage. However, up until
+recently, runtime performance was a critical limitation of NeRFs which
+can take tens of seconds to minutes to render a single image. A recent
+follow-up work proposed a framework that enables real-time rendering
+of NeRFs, which expands the frontier of NeRF applications into use
+cases such as VR/AR.
+
+Your project will be to leverage this work to build an end-to-end
+pipeline that allows a user to capture a video of an object of
+interest, train a NeRF at the edge, and overlay the rendered 3D
+representation onto an AR headset. This project requires proficiency
+in both systems building and computer vision. Although you are not
+required to invent novel computer vision algorithms, you should be
+comfortable working with deep learning code and frameworks such as
+PyTorch.
+
+**<span style="color: crimson;">4. CMU History Through Augmented Reality</span>**  ([Video](https://youtu.be/sOtwqFfGfZw) [Poster](../assets/POSTERS/2021-project04-poster-dong-murarka.pdf))<br>
+Students: Qifei Dong and Utkarsh Murarka &nbsp;&nbsp;&nbsp; Mentor: Jim Blakley
+
+This project will explore mobile augmented reality using edge
+computing. The project team will create an edge-native application for
+a mobile pedestrian heads-up-display (HUD = e.g., Hololens/Google
+Glass) user. The application will overlay historical images on a
+real-world outdoor scene during a walk across the CMU campus. For
+example, see these [historic CMU
+images](http://digitalcollections.powerlibrary.org/cdm/landingpage/collection/acamu-cmuhi)).
+
+
+**<span style="color: crimson;">5. Network Latency Segmentation</span>**  ([Video](https://youtu.be/2Voj_kaLrag) [Poster](../assets/POSTERS/2021-project05-poster-smith-darwhekar.pdf))<br>
+Students: Ishan Darwhekar and Sophie Smith &nbsp;&nbsp;&nbsp; Mentor: Jim Blakley
+
+This project will explore the sources of latency in 4G and 5G mobile
+networks. The project team will design and implement a framework to
+measure where latency arises as user traffic passes from the user
+device to the edge, the cloud and back to the device. The main focus
+will be on segmenting and measuring the latency introduced by each of
+the wireless link, the radio access network and the wireless core
+network. The framework will be built as much as possible from
+off-the-shelf components (e.g., wireshark) and tested using a real
+application (e.g., OpenRTIST) in a real environment (The Living Edge
+Lab). The project will produce the framework, Living Edge Lab
+measurements using the framework and an analysis of the sources of
+latency in the Living Edge Lab. The project will require knowledge of
+mobile network architecture, networking, system measurement and
+benchmarking.
+
+**<span style="color: crimson;">6. Privacy-Promoting Fake News Detection</span>**  ([Video](https://youtu.be/64c7owhd__c) [Poster](../assets/POSTERS/2021-project06-poster-flanigan-arora.pdf))<br>
+Students: Bailey Flanigan and Jatin Arora &nbsp;&nbsp;&nbsp; Mentor: Shilpa George
+
+Detecting fake news is an important problem.  Fundamentally, the
+detection part requires data that leads to a privacy concen.  We want
+to detect fake news in a way that is privacy-promoting, meaning that
+the platform never sees user data.  We use federated learning to
+achieve this.  Each individual user trains his own model and then
+sends that model to the platform, which combines its inputs to create
+a global model.  User data never leaves the user device.  Can fake
+news detection be done in a low-bandwidth setting using federated
+learning?  Answering this question is the goal of this project.
+
+
+**<span style="color: crimson;">7. Text Recognition for OpenScout</span>**  ([Video](https://youtu.be/qMrDtlmBKPc) [Poster](../assets/POSTERS/2021-project07-poster-ji-yao.pdf))<br>
+Students: Siyuan Ji and Yuhang Yao &nbsp;&nbsp;&nbsp; Mentor: Tom Eiszler
+
+OpenScout is a pipeline for automated object detection/facial
+recognition. Android clients send image frames and GPS coordinates
+from the device to an GPU-enabled edge node where two cognitive
+engines perform object detection (using objects from the COCO dataset)
+and face recognition (using either OpenFace or Microsoft's Face
+Cognitive Service). Results are pushed into an ELK
+(elasticsearch-logstash-kibana) stack for visualization and
+analysis. This project would consist of adding new cognitive engines
+to perform functions like OCR on any text in the image stream or
+perform pose estimation on the actors in the scene. Microsoft has an
+OCR cognitive service that could be leveraged, however another OCR
+framework could be proposed. Pose estimation could be done with
+OpenPose.
+
+**<span style="color: crimson;">8. Edge-based Synthetic Scene Transformations</span>**  ([Video](https://youtu.be/qMXYsepLDe8) [Poster](../assets/POSTERS/2021-project08-poster-li-du.pdf))<br>
+Students: Anran Du and Yuwei Li &nbsp;&nbsp;&nbsp; Mentor: Tom Eiszler
+
+OpenRTiST is a real-time style transfer application that takes image
+frames from the device and returns images that are stylized to
+resemble famous works of art which are then displayed on the user's
+screen. Generative adversarial networks have been used to perform
+unpaired image to image translation. This project would extend
+OpenRTiST to create a new cognitive engine using CycleGA or CUT to add
+new styles via unpaired image to image transfers such as winter to
+summer or day to night.
+
+**<span style="color: crimson;">9. Vision based Localization on Smartphones</span>**  ([Video](https://youtu.be/xSzQ-3AgEhI) [Poster](../assets/POSTERS/2021-project09-poster-ramesh-zhu.pdf))<br>
+Students: Arjun Ramesh and Tiane Zhu &nbsp;&nbsp;&nbsp; Mentor: Jan Harkes
+
+Google recently released AR-based walking directions. This uses
+training on Google's streetview image dataset to get more accurate
+location information than what you would get from just the phone's
+GPS. The goal of this project is to create a similar system based on
+Deep Neural Network object detectors and classic SIFT feature
+extractors, and to compare their effectiveness as a potential basis
+for an AR application for exploring indoor points of interest
+(POI). GPS is not available indoors.
+
+The initial goal would be to capture video walking across campus, and
+collect seasonal image data of places like the fence and other
+recognizable landmarks and then labeling the various POI with CVAT,
+the computer vision annotation toolkit. The labeled datasets can then
+be used to train object recognizers with the OpenTPOD pipeline (tool
+for painless object detection) as well as the classic SIFT/SURF
+feature detectors. With this the relative effectiveness of both
+approaches can be evaluated. How robust are these methods when faces
+with seasonal or weather changes, or when students repaint the fence? 
+A stretch goal would be to turn this into an Android application, by
+building on the Gabriel framework which captures image data from
+Android devices, offloads to the cloud, or a nearby cloudlet, for any
+heavy computation and returns annotated frames with markers for any
+POI that were found within the image. An example Gabriel application
+is OpenRTiST which performs real-time style transfer on the input
+images.
+
+**<span style="color: crimson;">10. Interactive Virtual Coach for Rehabilitation</span>**  ([Video](https://youtu.be/Pvw1oTaqTIg) [Poster](../assets/POSTERS/2021-project10-poster-jing-yu.pdf))<br>
+Students: Andong Jing and Tianhong Yu&nbsp;&nbsp;&nbsp; Mentor: Asim Smailagic
+
+A virtual coach that monitors and provides feedback to rehabilitation
+exercises has the great potential to improve patient compliance with
+therapy. Development of these systems requires a setup of a motion
+capture sensor. The goal of this project is to use interaction
+techniques and edge computing to create a more capable virtual coach
+to monitor and provide intelligent feedback to patient exercise
+performance. The coach would use a web camera and/or IMU wearable
+sensor. The project would include two main parts: (1) Interaction
+Techniques: Explore more advanced AI techniques to provide transparent
+feedback to the user; Develop audio or gesture recognition models to
+control a system; (2) Edge Computing: Create a system to transmit a
+video/image of an exercise to a server and receive tracked body joints
+using the OpenPose library; evaluate the effectiveness of edge
+computing techniques in providing real-time feedback. For the
+development of this system, we have collected a dataset that includes
+video recordings of three upper-limb exercises from 15 post-stroke
+survivors. This project requires proficiency in implementing machine
+learning models and interactive systems (e.g. using audio or gesture
+modality).
