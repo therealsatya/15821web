@@ -25,3 +25,9 @@ Asim Smailagic
 * Brandon Lucia (ECE, Email: blucia@andrew.cmu.edu)
 * Francine Gemperle
 
+### Teaching Assistant
+
+Jason Choi
+* Office: GHC 9220
+* Email: jasonchoi@cmu.edu
+
