@@ -14,9 +14,10 @@ Mahadev Satyanarayanan
 * Admin assistant: Sara Golembiewski, GHC 9229 (x8-3041, sgolembi@andrew.cmu.edu)
 
 Asim Smailagic
-* Office: HH 1217
+* Office: HH 2108
 * Phone: x8-7863
 * Email: asim@cs.cmu.edu
+* Admin assistant: Dawn Sienko, HH 2125 (x8-2224, dsienko@andrew.cmu.edu)
 
 ### Guest Faculty
 
