@@ -6,7 +6,7 @@ description: Posters and YouTube videos of final demos from previous classes
 nav: true
 ---
 
-Go to: [2015](#2015)&nbsp;&nbsp;[2016](#2016)&nbsp;&nbsp;[2017](#2017)&nbsp;&nbsp;[2018](#2018)&nbsp;&nbsp;[2019](#2019)&nbsp;&nbsp;[2020](#2020)&nbsp;&nbsp;[2021](#2021)
+Go to: [2015](#2015)&nbsp;&nbsp;[2016](#2016)&nbsp;&nbsp;[2017](#2017)&nbsp;&nbsp;[2018](#2018)&nbsp;&nbsp;[2019](#2019)&nbsp;&nbsp;[2020](#2020)&nbsp;&nbsp;[2021](#2021)&nbsp;&nbsp;[2022](#2022)
 
 ### <a name="2015">December 1, 2015</a>
 
@@ -1032,3 +1032,144 @@ video recordings of three upper-limb exercises from 15 post-stroke
 survivors. This project requires proficiency in implementing machine
 learning models and interactive systems (e.g. using audio or gesture
 modality).
+
+### <a name="2022">December 6, 2022</a>
+
+**<span style="color: crimson;">1. Improving decision making for nearby compute deployment</span>**  ([Video](https://youtu.be/upOhkwfdXrc) [Poster](../assets/POSTERS/2022-project01-poster-smartins-pcoppock.pdf))<br>
+Students: Sofia Martins and Patrick Coppock &nbsp;&nbsp;&nbsp; Mentor: Jan Harkes
+
+Sinfonia is a system for mobile applications to discover and deploy
+compute intensive operations on nearby infrastructure.  The focus of
+this project is to improve the decision making in Sinfonia about what
+infrastructure can be considered 'near' or 'sufficient' based on
+available metrics and bringing in additional metrics to allow us to
+make better decisions.  Examples would be:
+
+
+- Currently we just report % used, explore if better decisions can be made with   the USE method (Utilization, Saturation, Errors) for each resource.
+
+- Include additional resource metrics that are currently missing, f.i. disk I/O   capacity and utilization.
+
+- Expose Docker cache state, f.i. by using a bloom filter populated with the  hashes of cached images.
+
+- Include additional network related information to help estimate which nodes  may require fewer network hops, f.i. direct Verizon mobile phones in specific   '5G Edge regions' to cloudlets in their respective AWS Wavelength zone. Or   have latency metrics to significant nearby network peering points, mobile  operator / ISP. specific egress points.
+
+**<span style="color: crimson;">3. Tracking Objects with Edge-Enabled UAVs in High-Latency Environments </span>**  ([Video](https://youtu.be/jw8dKGTtT1I) [Poster](../assets/POSTERS/2022-project03-poster-esturzinger-cfigliuolo.pdf))<br>
+Students: Ciara Figliuolo and Eric Sturzinger&nbsp;&nbsp;&nbsp; Mentors: Mihir Bala and Tom Eiszler
+
+Granting edge connectivity to an autonomous drone allows us to get the
+capabilities of a traditional autonomous drone without carrying a
+heavy compute payload.  Instead, the drone offloads computation on
+data from its sensors to a nearby cloudlet. For applications that do
+not have tight latency requirements (e.g., detecting objects along the
+drone's flightpath and taking pictures at various GPS locations) our
+design performs comparably. For more dynamic tasks, high latency can
+make things difficult. In this project, you will develop an edge-based
+application that performs latency-resistant (up to 1s) tracking on
+drone video feeds. Your application should be able to account for
+transmission delays and sudden changes in the motion of the target.
+
+
+Skills learned: drone simulation using Parrot Sphinx, DNNs, and
+tracking algorithms
+
+
+Coding language: Python
+
+**<span style="color: crimson;">4. DressUp: A Virtual Try-On for Apparel using Edge-Computing</span>**  ([Video](https://youtu.be/kyHhEj4I35g) [Poster](../assets/POSTERS/2022-project04-poster-abritto.pdf))<br>
+Student: Aylmer Britto&nbsp;&nbsp;&nbsp; Mentor: Shilpa George
+	
+With world health crises such as monkeypox and COVID-19, there have
+been closures of fitting rooms to minimize interactions. DressUp is an
+AR application that allows consumers to virtually "try on" clothing of
+their choice. Instead of simply superimposing the user's face on a
+mannequin, the application uses state-of-the-art deep learning
+techniques to estimate the pose of the user and warps the clothing to
+generate a photo-realistic fitting result. The app leverages edge
+computing to obtain seamless interaction which is not attainable if
+run on the mobile-device or at the cloud.
+
+**<span style="color: crimson;">7. Follow Me and Don't Forget!</span>**  ([Video](https://youtu.be/zObaBOmQwm0) [Poster](../assets/POSTERS/2022-project07-poster-xyue.pdf))<br>
+Student: Xiang Yue&nbsp;&nbsp;&nbsp; Mentor: Jim Blakley
+
+When a mobile user moves location, they expect a seamless application
+experience. But, movement can also mean migration of application
+functionality and state to a different edge cloudlet. This project
+will explore the triggers, methods, and performance impacts of
+application migration between edge nodes. The team will create or
+modify a stateful edge-native application, develop a migration
+prototype, and test the function and performance of that application
+during mobile user movement in the real world Living Edge Lab
+network. This project can build off our existing work in application
+migration (e.g., nephele) and orchestration (Sinfonia).
+
+**<span style="color: crimson;">8. Media Composition on the Edge</span>**  ([Video](https://youtu.be/B40FewCyLio) [Poster](../assets/POSTERS/2022-project08-poster-gralph.pdf))<br>
+Student: George Ralph&nbsp;&nbsp;&nbsp; Mentor: Jim Blakley
+
+Edge computing can supplement the mobile device computing power by
+offloading application functionality to a cloudlet. In this project,
+you will use this approach to create an edge-native media composition
+application that will automatically create short videos similar to IG
+Reels and Tik Tok. You will apply multiple machine learning models
+like body tracking, hand tracking and face tracking on the edge for
+real time video capture and compositing to produce a single video from
+a set of short clips. You may make use of the Living Edge Lab
+“OpenScout” platform for your edge-native application. You will
+test your application on the Living Edge Lab mobile
+network. Experience in Android application development and machine
+learning are important.
+
+**<span style="color: crimson;">9. Explainable Deep Network Pruning for Mobile Computing</span>**  ([Video](https://youtu.be/-OdmI3iZONI) [Poster](../assets/POSTERS/2022-project09-poster-jlee-svijayakumar.pdf))<br>
+Students: Saranya Vijayakumar and Jeremy Lee&nbsp;&nbsp;&nbsp; Mentors: Asim Smailagic and Alex Gaudio
+
+The possibility to evaluate and even train large deep networks on
+mobile devices significantly enhances the potential applications for
+mobile and pervasive computing, but standard deep networks are not
+designed for mobile computing.  In this project with significant
+machine learning content, we will develop a saliency-based layer and
+channel pruning method to convert deep convolutional networks into
+more efficient mobile-ready models.  We will prune, quantize and
+compress models for use on mobile devices, and then evaluate them in
+classification tasks with medical image data.  We will provide the
+code and method for a deep network channel pruning and a
+saliency-based explanation of a deep network's inefficiencies.  You
+will be expected to build on this to develop an improved deep network
+channel and layer pruning method, and also to implement a quantization
+method to obtain a minimally compressed model.  The model will be
+compared to existing literature.
+
+
+Experience in linear algebra, deep learning, pruning, quantization and
+design/application of mobile deep networks is desirable
+
+
+Keywords: Deep Network Compression, Pruning, Quantization, Medical
+Image Analysis
+
+**<span style="color: crimson;">10. Improving LPWAN Performance using the Cloudlet</span>**  ([Video](https://youtu.be/ZLCvZo8LlKk) [Poster](../assets/POSTERS/2022-project10-poster-bgonzalez-zcheng.pdf))<br>
+Students: Zhuo Cheng and Brandon Gonzalez &nbsp;&nbsp;&nbsp; Mentors: Anthony Rowe and Asim Smailagic 
+
+There are multiple devices that have to communicate data wirelessly
+and efficiently in IoT systems. Of the different kinds of wireless
+networks available, LPWANs (Low-Power Wide Area Networks) are
+particularly useful due to their ability to support numerous streams
+of small data packets coming from devices over a large area. However,
+increased capacity and overhead when upscaling LPWANs become a key
+issue. This project aims to build upon recent work on LPWANs at CMU
+(WiSE Lab). The work explored packet recovery using multiple receivers
+to correct corrupted data, as well as the use of directional antenna
+arrays in order to reduce interference among clients.
+
+We will use the cloudlet to bring these sensing devices closer to
+their data-centers, while also ensuring that the data received is
+coherent and intelligible. This project will attempt to integrate the
+use of the cloudlet system with this LPWAN infrastructure, utilizing
+the techniques of packet recovery and interference isolation to
+maximize performance. Our goal is to see improvements in successful
+packet delivery and network capacity by the end of the semester. The
+final deliverable will include a demonstration of the system to
+illustrate these performance improvements compared to published
+results. Implementation tools include using the LoRaWAN protocol,
+deployed on the appropriate hardware for testing.
+
+
