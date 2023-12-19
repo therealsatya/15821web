@@ -6,7 +6,7 @@ description: Posters and YouTube videos of final demos from previous classes
 nav: true
 ---
 
-Go to: [2015](#2015)&nbsp;&nbsp;[2016](#2016)&nbsp;&nbsp;[2017](#2017)&nbsp;&nbsp;[2018](#2018)&nbsp;&nbsp;[2019](#2019)&nbsp;&nbsp;[2020](#2020)&nbsp;&nbsp;[2021](#2021)&nbsp;&nbsp;[2022](#2022)
+Go to: [2015](#2015)&nbsp;&nbsp;[2016](#2016)&nbsp;&nbsp;[2017](#2017)&nbsp;&nbsp;[2018](#2018)&nbsp;&nbsp;[2019](#2019)&nbsp;&nbsp;[2020](#2020)&nbsp;&nbsp;[2021](#2021)&nbsp;&nbsp;[2022](#2022)&nbsp;&nbsp;[2023](#2023)
 
 ### <a name="2015">December 1, 2015</a>
 
@@ -1173,3 +1173,122 @@ results. Implementation tools include using the LoRaWAN protocol,
 deployed on the appropriate hardware for testing.
 
 
+### <a name="2023">December 5, 2023</a>
+
+**<span style="color: crimson;">3. Persistent Augmented Reality Annotation (Aperture 2.0) </span>**  ([Video](https://www.youtube.com/watch?v=B-HUrhURgS4) [Poster](../assets/POSTERS/2023-project-03-poster-achanana-shuningl.pdf))<br>
+Students: Aditya Chanana and Shuning Lin &nbsp;&nbsp;&nbsp; Mentor: Mihir Bala
+
+Gabriel is a tool used for running high compute tasks on sensor
+streams at the edge in real time. Previously, it has been used as the
+underlying system for OpenScout, SteelEagle, and WCA.
+
+In this project, you will be implementing a persistent augmented
+reality annotation tool using Gabriel on Android. Users will be able
+to virtually draw on an object which will make that annotation
+viewable to all other users who see that object. You will have to
+decide on what computer vision algorithms to use for scene matching
+and optical flow so that annotations move properly with the
+camera. Technologies include docker/docker-compose, python, Android,
+SIFT/SURF, and (optionally) Tensorflow.
+
+**<span style="color: crimson;">4. Obstacle Assistant for Visually Impaired </span>**  ([Video](https://www.youtube.com/watch?v=kQMIjY8xulA) [Poster](../assets/POSTERS/2023-project-04-poster-murphyau-mdhamank.pdf))<br>
+Students: Murphy Austin and Mihir Dhamankar &nbsp;&nbsp;&nbsp; Mentor: Mihir Bala
+
+For the visually impaired, navigating the world can be a
+challenge. While canes are effective for ground obstacles and ledges,
+they often miss low-hanging obstacles at chest height or above.
+
+In this project, you will implement an Android app that will detect
+low-hanging obstacles and alert the user to their presence. You will
+use an OpenScout backend along with MiDaS, a depth map generation
+DNN. Technologies include docker/docker-compose, python, Android, and
+Tensorflow.
+
+**<span style="color: crimson;">7. How can a Just-In-Time Cloudlet unlock the edge for new applications? </span>**  ([Video](https://www.youtube.com/watch?v=JjGrjHUxZ6k) [Poster](../assets/POSTERS/2023-project-07-poster-avaishnava.pdf))<br>
+Student: Akshunna Vaishnav &nbsp;&nbsp;&nbsp; Mentor: Jim Blakley
+
+Using drones to inspect bridges and electric grid towers, mounting a
+search and rescue operation for a child lost in the woods, hosting a
+backcountry ski event for a weekend. These are just a few situations
+where there is a need to deploy a modern computing and communication
+infrastructure very rapidly in areas with poor network coverage. These
+situations require the ability to provide connectivity for mobile
+phones, laptop computers, cameras, drones, and other connected
+devices. They also require access to sophisticated applications hosted
+locally on nearby computing resources. A system that is designed to be
+deployed in these situations we refer to as a Just-in-Time (JIT)
+Cloudlet.
+
+In this project, you will build on our existing JIT Cloudlet prototype
+to develop an end-to-end edge-native application for a use case of
+your choosing. Components of the application will include object
+detection and classification, real-time collaboration, data collection
+and analysis, visualization, system management, and any other that are
+necessary to illustrate the use case. Your solution will need to fit
+the "Cloud-native at the Edge" design paradigm. Experience in
+Android, Windows/Python, and Cloud Native Development will be
+useful. You will also gain experience in training and using object
+detection in the context of an application. Your demo will show your
+new edge-native application in a real JIT Cloudlet --- illustrating
+the value and deployment ease of a JIT Cloudlet solution.
+
+**<span style="color: crimson;">9. Developing Mobile-Device Ready Heart Sound Pathology Detection Algorithm </span>**  ([Video](https://www.youtube.com/watch?v=rKwFQ-QfxaU) [Poster](../assets/POSTERS/2023-project-09-poster-tianqinl-zgeng2.pdf))<br>
+Students: Zhengyang Geng and Tianqin Li &nbsp;&nbsp;&nbsp; Mentor: Asim Smailagic and Alex Gaudio
+
+Development of AI models for the digital stethoscope brings some
+challenges related to the cloudlet operation.  AI frameworks used by
+digital stethoscope companies collect sounds on a stethoscope, forward
+the sounds to a mobile device, and then expect the mobile device to
+engage in bidirectional communication with the cloud for additional
+predictive analysis.  We want accurate and near real-time prediction
+algorithms that can run on a mobile device in order to bypass the
+cloud for inference, and use the cloud for incremental updates. Such
+predictive analysis is especially valuable in resource poor settings,
+where using digital stethoscopes as screening tools may improve access
+to healthcare when there is a shortage of trained clinicians or
+unreliable internet access. In this project, we can analyze the CirCor
+DigiScope Phonocardiogram Dataset that was publicly released as a part
+of the 2022 George B. Moody PhysioNet Challenge to predict the
+presence of murmurs and to segment the heart sounds.  Your task is to
+develop accurate, fast, and small (heart murmur) classification
+methods that perform inference without cloud access. The outcomes of
+the work will include: (a) a mobile-ready predictive model that
+accepts as input sound and outputs a classification; and (b) an
+analysis demonstrating the evaluated model's suitability for mobile
+application.
+
+**<span style="color: crimson;">11. SmartVision Assistant</span>**  ([Video](https://www.youtube.com/watch?v=gJ0mGvUYxAY) [Poster](../assets/POSTERS/2023-project-11-poster-xiangliangc-guozil.pdf))<br>
+Students: Blake Guozi Liu and Anthony Chen &nbsp;&nbsp;&nbsp; Mentor: Tom Eiszler
+
+Create SmartVision, a mobile app that combines the power of OpenScout,
+a CV object detection framework, with Large Language Models hosted on
+a nearby cloudlet. The goal is to transform how users interact with
+their environment by transforming it into a “smart space.”
+OpenScout on your phone identifies objects or extracts text. A
+language model (like llama) deployed on a cloudlet can provide details
+on the object's description, usage, or even context-aware Q&A about
+objects and text.
+
+Use Cases:
+
+* Instant Information: Get real-time insights about your surroundings, aiding decision-making and learning.
+
+* Accessibility: Assist visually impaired users by describing objects and reading text aloud.
+
+* Education: Enhance learning with detailed explanations and context for objects and text.
+
+* Efficiency: Offload heavy computation of OpenScout and LLM to the Cloudlet, ensuring a seamless user experience.
+
+
+**<span style="color: crimson;">Independent Study: Using a Just-in-Time Cloudlet to Enable New Edge-Native Applications </span>**  ([Video](https://www.youtube.com/watch?v=kMG2guY-kD0) [Poster](../assets/POSTERS/2023-project-12-poster-arexhari.pdf))<br>
+Student: Aylmer Britto &nbsp;&nbsp;&nbsp; Mentor: Jim Blakley
+
+In this project, you will build on our existing JIT Cloudlet prototype
+to develop an end-to-end edge-native application for a use case of
+your choosing. Components of the application will include object
+detection and classification, real-time collaboration, data collection
+and analysis, visualization, system management, and any other that are
+necessary to illustrate the use case. Your solution will need to fit
+the "Cloud-native at the Edge" design paradigm.You will demo and
+evaluate your new edge-native application in a real JIT Cloudlet, thus
+illustrating the value and deployment ease of a JIT Cloudlet solution.
