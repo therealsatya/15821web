@@ -25,9 +25,3 @@ Asim Smailagic
 * Swarun Kumar  (ECE, Email: swarun@cmu.edu)
 * Francine Gemperle
 
-### Teaching Assistant
-
-Eric Sturzinger
-* Office: GHC 9127
-* Email: esturzin@andrew.cmu.edu
-
