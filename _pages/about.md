@@ -74,7 +74,7 @@ academic research.
 #### Course Logistics
 * 12 units, in-person
 * Tuesdays (August 27  to December 3)   Time: 3:00pm - 5:50pm  in GHC 4303
-* no textbook: [reading list](assets/READINGS/reading-list-2023.pdf) and [papers online](assets/READINGS/PAPERS)
+* no textbook: [reading list](assets/READINGS/reading-list-2024.pdf) and [papers online](assets/READINGS/PAPERS)
 * no mid-term exam or final exam
 
 #### Important Dates
