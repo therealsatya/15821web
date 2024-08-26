@@ -82,7 +82,7 @@ academic research.
 * Friday, August 30:  Student inputs on project preferences
 * Tuesday, September 17: Project Checkpoint-1 Presentations
 * Tuesday, October 22: Project Checkpoint-2 Presentations
-* Tuesday, November 28: Final Demos and Posters
+* Tuesday, November 26: Final Demos and Posters
 
 #### Grading Weights
 * Project execution & demo/poster (55%)
