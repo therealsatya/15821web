@@ -6,7 +6,7 @@ description: Posters and YouTube videos of final demos from previous classes
 nav: true
 ---
 
-Go to: [2015](#2015)&nbsp;&nbsp;[2016](#2016)&nbsp;&nbsp;[2017](#2017)&nbsp;&nbsp;[2018](#2018)&nbsp;&nbsp;[2019](#2019)&nbsp;&nbsp;[2020](#2020)&nbsp;&nbsp;[2021](#2021)&nbsp;&nbsp;[2022](#2022)&nbsp;&nbsp;[2023](#2023)
+Go to: [2015](#2015)&nbsp;&nbsp;[2016](#2016)&nbsp;&nbsp;[2017](#2017)&nbsp;&nbsp;[2018](#2018)&nbsp;&nbsp;[2019](#2019)&nbsp;&nbsp;[2020](#2020)&nbsp;&nbsp;[2021](#2021)&nbsp;&nbsp;[2022](#2022)&nbsp;&nbsp;[2023](#2023)&nbsp;&nbsp;[2024](#2024)
 
 ### <a name="2015">December 1, 2015</a>
 
@@ -1292,3 +1292,50 @@ necessary to illustrate the use case. Your solution will need to fit
 the "Cloud-native at the Edge" design paradigm.You will demo and
 evaluate your new edge-native application in a real JIT Cloudlet, thus
 illustrating the value and deployment ease of a JIT Cloudlet solution.
+
+
+### <a name="2024">November 26, 2024</a>
+
+**<span style="color: crimson;">1. Multi Modal Model on Edge </span>**  ([Video](https://youtu.be/ivgD8BKkcnU) [Poster](../assets/POSTERS/2024-project-01-poster-gupta-bayyapu.pdf))<br>
+Students: Aksara Bayyapu and Naman Gupta&nbsp;&nbsp;&nbsp; Mentor: Mihir Bala
+
+Multi-modal models are deep neural networks trained to cross between
+different modalities e.g. text to image, text to video, image to
+text. They can be useful in providing zero shot image captioning,
+metric depth sensing from monocular cameras, and more.  This
+disruptive technology has revolutionized applications in object
+recognition, image segmentation, and image captioning.  In this
+project, you will use edge computing to bring this technology to a
+mobile device and provide near real-time inference. You will have
+flexibility in terms of defining which model to use from a large
+selection of options.
+
+**<span style="color: crimson;">4. Edge-native App for Indoor Navigation)</span>**  ([Video](https://youtu.be/aHIcC0zOw_Y) [Poster](../assets/POSTERS/2024-project-04-poster-tandon.pdf))<br>
+Students: Sarvesh Tandon&nbsp;&nbsp;&nbsp; Mentor: Qifei Dong
+
+
+Indoor localization and navigation play a key role in many
+location-based services. In recent years, visual SLAM (Simultaneous
+Localization and Mapping) has been widely adopted in autonomous
+navigation for robots in GPS-denied areas. Due to its high computation
+demand, running visual SLAM in real time on mobile devices has been a
+non-trivial task. Research efforts have been made to achieve this by
+computation offloading with the aid of edge computing.
+
+This project requires you to build an Android app for navigation
+inside the GHC building. The app streams images to a cloudlet running
+ORB-SLAM3. You can use our ORB-SLAM3 server out-of-the-box. You will
+need to correlate SLAM-constructed maps to real-world locations and
+implement algorithms for route planning. If good progress is made, you
+can make one or more of the following improvements: voice interactions
+powered by ChatGPT; obstacle avoidance using a deep learning model
+(e.g. Midas); adding simple AR (augmented reality) effects for better
+visualization. From this project, you will gain familiarity with
+ORB-SLAM3 and Gabriel, our offloading framework, and will gain
+experience in developing a full-stack edge-native application. You
+should be familiar with Docker, Python, Android, and have some basic
+knowledge of computer vision.
+
+
+
+
