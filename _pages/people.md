@@ -19,6 +19,11 @@ Asim Smailagic
 * Email: asim@cs.cmu.edu
 * Admin assistant: Dawn Sienko, HH 2125 (x8-2224, dsienko@andrew.cmu.edu)
 
+Babu Pillai
+* Office: GHC 7123
+* Email: pspillai@andrew.cmu.edu
+* Admin assistant: Emily Spencer, GHC 9229 (x8-5566, emilyspe@andrew.cmu.edu)
+
 ### Guest Faculty
 
 * Jason Hong (HCII, Email: jasonh@cs.cmu.edu)

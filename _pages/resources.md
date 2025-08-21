@@ -20,8 +20,9 @@ Evaluation forms that will be used for grading
 
 [Published by Springer](https://www.springer.com/series/16975/books)<br>
 These can be freely accesses by all Carnegie Mellon students and faculty).  
-The links below will only work from a machine with a CMU IP address.
+The links below will take you to the .pdf only after CMU authentication.
 
+* [Introduction to Wireless Networking and Its Impact on Applications](https://www.springer.com/book/9783031274688) (Peter Steenkiste, 2023)
 * [Intelligent Notification Systems](https://www.springer.com/book/9783031013591) (Abhinav Mehrotra, Mirco Musolesi, 2019)
 * [Privacy in Mobile and Pervasive Computing](https://www.springer.com/book/9783031013584) (Marc Langheinrich, Florian Schaub, 2018)
 * [Mobile User Research: A Practical Guide](https://www.springer.com/book/9783031013577) (Sunny Consolvo, Frank Bentley, Eric Hekkler, Sayali Phatak, 2017)
