@@ -8,7 +8,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
 
 url:  https://www.cs.cmu.edu # the base hostname & protocol for your site
-baseurl: /~15-821
+baseurl: /course/15-821
 
 #url:  https://www.andrew.cmu.edu # the base hostname & protocol for your site
 #baseurl: /course/15-440 # /al-folio the subpath of your site, e.g. /blog/
