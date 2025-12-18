@@ -6,7 +6,7 @@ description: Posters and YouTube videos of final demos from previous classes
 nav: true
 ---
 
-Go to: [2015](#2015)&nbsp;&nbsp;[2016](#2016)&nbsp;&nbsp;[2017](#2017)&nbsp;&nbsp;[2018](#2018)&nbsp;&nbsp;[2019](#2019)&nbsp;&nbsp;[2020](#2020)&nbsp;&nbsp;[2021](#2021)&nbsp;&nbsp;[2022](#2022)&nbsp;&nbsp;[2023](#2023)&nbsp;&nbsp;[2024](#2024)
+Go to: [2015](#2015)&nbsp;&nbsp;[2016](#2016)&nbsp;&nbsp;[2017](#2017)&nbsp;&nbsp;[2018](#2018)&nbsp;&nbsp;[2019](#2019)&nbsp;&nbsp;[2020](#2020)&nbsp;&nbsp;[2021](#2021)&nbsp;&nbsp;[2022](#2022)&nbsp;&nbsp;[2023](#2023)&nbsp;&nbsp;[2024](#2024)&nbsp;&nbsp;[2025](#2025)
 
 ### <a name="2015">December 1, 2015</a>
 
@@ -1336,6 +1336,104 @@ experience in developing a full-stack edge-native application. You
 should be familiar with Docker, Python, Android, and have some basic
 knowledge of computer vision.
 
+### <a name="2025">November 25, 2025</a>
 
 
+**<span style="color: crimson;">4. SteelEagle Airspace Control System (ACS) </span>** ([Poster](../assets/POSTERS/2025-project-04-poster-teague-rhoades.pdf), [Video](https://youtu.be/1DmMYQeeFcQ))<br>
+Students: Hunter Rhoades, Madison Teague&nbsp;&nbsp;&nbsp; Mentor: Tom Eiszler
 
+SteelEagle is an edge-orchestrated autonomy platform that enables
+cheap, lightweight, commercial-off-the-shelf drones to perform like
+expensive autonomous systems by offloading processing to cloudlet,
+featuring drone-agnostic APIs, visual mission scripting, and support
+for heterogeneous drone swarm operations.  The goal of this project is
+to expand the SteelEagle architecture to provide centralized,
+cloudlet-enabled dynamic airspace deconfliction between members of the
+swarm in an environment requiring transient disconnected operation.
+
+
+**<span style="color: crimson;">5a. Exploring Multiple Object Tracking on Mobile and Edge Hardware </span>** ([Poster](../assets/POSTERS/2025-project-05a-poster-cui-sun.pdf), [Video](https://youtu.be/3Fi6BRwOU_E))<br>
+Students: Sijie Cui, Yihao Sun&nbsp;&nbsp;&nbsp; Mentor: Qifei Dong
+
+This project implements an Android application that performs
+Multi-Object Tracking (MOT) in two different ways: (a) using on-device
+hardware; and (b) using edge offload to a cloudlet. The project
+reports measurements comparing the accuracy and performance of the two
+approaches.  The results confirm that on-device AI accelerators such
+as NPUs and TPUs do indeed make on-device MOT feasible.  Edge mode
+delivers higher accuracy at the same FPS and higher FPS at the same
+accuracy, while Local mode remains comparable.  Further, optical flow
+significantly boosts FPS with only a moderate reduction in accuracy.
+
+
+**<span style="color: crimson;">5b. EDLE: Error-Detected Liquid Handler Enabler for Transparent Reagents</span>** ([Poster](../assets/POSTERS/2025-project-05b-poster-ge.pdf), [Video](https://youtu.be/4_spisDSDIU))<br>
+Student: Gwenneth Ge&nbsp;&nbsp;&nbsp; Mentors: Mihir Bala, Qifei Dong
+
+EDLE is a real-time computer vision system that measures transparent
+liquid volumes inside pipette tips and detects common pipetting errors
+using only a camera. It works with both Opentrons robots and manual
+pipettes, requiring no changes to existing work flows.  Pipetting
+transparent liquids is visually unreliable: the meniscus is faint,
+droplets are invisible, and air bubbles blend into the tip. Both
+robots and humans often transfer the wrong volume without
+noticing. EDLE addresses this long-standing problem by making
+transparent liquid behavior visually detectable and quantifiable in
+real time.
+
+**<span style="color: crimson;">5c. Benchmarking Lab-Automation Vision on Embedded Hardware</span>** ([Poster](../assets/POSTERS/2025-project-05c-poster-soham.pdf), [Video](https://youtu.be/ivWMVGmwrH4))<br>
+Student: Soham Mondal&nbsp;&nbsp;&nbsp; Mentors: Mihir Bala, Qifei Dong
+
+
+Modern large-scale lab automation relies on human-in-the-loop
+oversight and multiple robotic modules communicating asynchronously
+over secure networks, which can introduce bottlenecks. These mobile
+units require uninterrupted network, compute, and service access, with
+latency as the dominant constraint for AI-based fault detection and
+recovery. Real-time workflows thus target capture-to-decision latency
+less than 100 ms. Given the visual uniformity of objects like pipette
+tips, vision classifiers consistently reach greater than 95% accuracy
+across model sizes.  Two compute tiers were evaluated for real-time
+lab-automation image classification - cloudlet offloading, on-board
+CPU, and on-board Hexagon NPU-on a low-cost, small-form-factor Tachyon
+Single-Board Computer using highly accurate YOLO-based classifiers
+widely deployed in laboratory automation. Results show that leveraging
+on-device heterogeneous xPUs/NPU cuts capture-to-decision latency
+while preserving accuracy, reducing the need for edge offloading for
+classification.  During network congestion, wireless disruptions, or
+edge/cloud contention, localized xPU acceleration serves as a
+resilient short-term fallback; however, Tachyon lacks active cooling,
+so sustained NPU loads trigger thermal/DVFS throttling and
+overheating, slightly increasing latency and accelerating thermal
+aging (reduced hardware lifetime). With robust on-board cooling,
+embedded xPU/NPU inference could remain a reliable long-duration
+alternative, while otherwise longer or peak-accuracy runs should
+offload to the cloudlet.
+
+
+**<span style="color: crimson;">7a. Deploying Large Language Models to Mobile Phones with Memory Offloading</span>** ([Poster](../assets/POSTERS/2025-project-07a-poster-jin-lai.pdf), [Video](https://youtu.be/mBgzDQNMB2M))<br>
+Students: Hongyi Jin, Ruihang Lai&nbsp;&nbsp;&nbsp; Mentor: Babu Pillai
+
+This project implements LLM weight offloading on mobile phones,
+thereby enabling mobile deployment of models that cannot fit mobile
+phone memory.  The implementation supports a wide range of Apple
+devices, including iPhone, iPad, and Mac.  Modern LLMs are all based
+on the transformer architecture, which consist of many identical
+layers. Therefore, we can divide a model into multiple stages. Before
+running a stage, we evict the model weights of the previous stage and
+load the model weights of the current stage. By doing this, the
+maximum memory requirement is bounded by the largest stage.
+
+
+**<span style="color: crimson;">7b. Running Large Models on Small, Mobile Devices:   Expanding OpenRTiST for Mobile-First Processing</span>** ([Poster](../assets/POSTERS/2025-project-07b-poster-scriffiny-wang.pdf), [Video](https://youtu.be/KEFETzSGyZs))<br>
+Students: Barry Wang, Jacob Scriffiny&nbsp;&nbsp;&nbsp; Mentors: Babu Pillai, Jan Harkes
+
+This project explores making OpenRTiST, a real-time style transfer
+application orignally based on cloudlet offload, to run on-device.
+For real-time rendering on a mobile device, users prefer low and
+predictable latency.  Cloud execution often fails to guarantee this
+due to variable network conditions.  While cloudlets improve latency
+by moving computation closer, they still depend on wireless
+connectivity.  Mobile devices now integrate stronger on-device
+accelerators, suggesting that these workloads might no longer require
+offloading.  This project aims to validate this hypothesis for
+OpenRTiST.
