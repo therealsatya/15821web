@@ -9,10 +9,10 @@ social: false
 ---
 
 # **<span style="color: crimson;">15-821/18-843 Mobile and Pervasive Computing (IoT)</span>**
-## Fall 2025
+## Fall 2026
 
-### Mahadev Satyanarayanan, Asim Smailagic and Babu Pillai
-######  Guest Faculty: Francine Gemperle, Jason Hong, Swarun Kumar
+### Mahadev Satyanarayanan and Babu Pillai
+######  Guest Faculty: Francine Gemperle, Jason Hong, Asim Smailagic, Peter Steenkiste
 
 ___
 
@@ -62,8 +62,8 @@ academic research.
 #### Course Topics
 * Introduction and Background
 * Ubiquitous Data Access
-* Exploiting Virtual Machines
-* Resource-Driven Dynamic Adaptation
+* Device, Edge, and Cloud
+* Energy
 * Mobile Hardware Technologies
 * Sensing and Actuation
 * Novel Wireless Technologies
@@ -73,16 +73,16 @@ academic research.
 
 #### Course Logistics
 * 12 units, in-person
-* Tuesdays (August 26  to December 2)   Time: 3:00pm - 5:50pm  in GHC 4303
-* no textbook: [reading list](assets/READINGS/reading-list-2025.pdf) and [papers online](assets/READINGS/PAPERS)
+* Tuesdays (August 25  to December 1)   Time: 3:00pm - 5:50pm  in GHC 4303
+* no textbook: [reading list](assets/READINGS/reading-list-2026.pdf) and [papers online](assets/READINGS/PAPERS)
 * no mid-term exam or final exam
 
 #### Important Dates
 
-* Friday, August 29:  Students send project preferences
-* Tuesday, September 16: Project Checkpoint-1 Presentations
-* Tuesday, October 21: Project Checkpoint-2 Presentations
-* Tuesday, November 25: Final Demos and Posters
+* Friday, August 28:  Students send project preferences
+* Tuesday, September 15: Project Checkpoint-1 Presentations
+* Tuesday, October 20: Project Checkpoint-2 Presentations
+* Tuesday, December 1: Final Demos and Posters
 
 #### Grading Weights
 * Project execution & demo/poster (55%)

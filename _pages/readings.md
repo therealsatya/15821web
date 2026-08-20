@@ -5,7 +5,7 @@ permalink: /Readings/
 nav: true
 ---
 
-* [Reading List](../assets/READINGS/reading-list-2025.pdf)
+* [Reading List](../assets/READINGS/reading-list-2026.pdf)
 * [Directory of individual readings](../assets/READINGS/PAPERS)
 * [One big easy-to-download zip file of all readings (~90 MB)](../assets/READINGS/readings.zip)
 
