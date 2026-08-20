@@ -22,8 +22,8 @@ nav: true
 ### Guest Faculty
 
 * [Francine Gemperle](https://www.cmu.edu/iii/people/faculty-staff/gemperle.html) (III adjunct faculty, Email: gemperle@cmu.edu)
-* [Jason Hong] (https://hcii.cmu.edu/people/jason-hong)(HCII emeritus, Email: jasonh@cs.cmu.edu)
+* [Jason Hong](https://hcii.cmu.edu/people/jason-hong) (HCII emeritus, Email: jasonh@cs.cmu.edu)
 * [Asim Smailagic](https://www.cs.cmu.edu/~asim/) (ECE emeritus, Email: asim@cs.cmu.edu)
-* [Peter Steenkiste](https://www.csd.cs.cmu.edu/people/faculty/peter-steenkiste)(CSD/ECE emeritus, Email: prs@cs.cmu.edu)
+* [Peter Steenkiste](https://www.csd.cs.cmu.edu/people/faculty/peter-steenkiste) (CSD/ECE emeritus, Email: prs@cs.cmu.edu)
 
 
