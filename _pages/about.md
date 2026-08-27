@@ -92,6 +92,9 @@ academic research.
 
 All students are expected to honor the  [CMU Academic Integrity Policy.](https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html)
 
+#### Using AI Tools
+
+The course policy on use of AI tools can be found [here](aipolicy/index.html)
 
 ### Wellbeing
 
