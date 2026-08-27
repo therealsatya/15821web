@@ -1,3 +1,11 @@
+---
+layout: page
+title: AI_Policy
+permalink: /aipolicy/
+description: Using AI tools
+nav: true
+---
+
 ## **Policy on Use of AI Tools**
 
 In this graduate-level course, our goal is to help you to acquire
@@ -15,8 +23,8 @@ which tool(s) you have used in specific coursework, and (b) how you
 used that tool.  These can be just a few sentences in the slides that
 you use for project checkpoints and commscans, and in the poster you
 prepare for the final demo and poster session.  Be safe and document
-your use clearly and completely.  *Not properly acknowledging use of
-AI tools constitutes an AIV.*
+your use clearly and completely.  ***Not properly acknowledging use of
+AI tools constitutes an AIV.***
     
 There is one particular aspect of the course that requires additional
 clarification.  The ability to read original research papers,
@@ -39,6 +47,6 @@ as follows::
   contains?  Did the AI tool miss some things that you thought
   important?  Why do you think they were missed?
 
-* *Do not look at the AI summary until you have completely read and
-  understood the full paper.  Violating this rule is an AIV.*  Of
+* ***Do not look at the AI summary until you have completely read and
+  understood the full paper.  Violating this rule is an AIV.***  Of
   course, not using AI summaries at all is perfectly fine.
